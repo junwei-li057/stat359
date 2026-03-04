@@ -1,0 +1,2755 @@
+[
+  {
+    "category": "coherence",
+    "prompt": "Lucy lost a ball, then",
+    "expected_entities": [],
+    "generated": "Lucy lost a ball, then Lucy was playing in the garden. She was very happy, but she could not find the way out. Then she heard a noise and came to the garden. She started to look around and saw a big pile of leaves. Lucy said to herself, \"What is that in the house?\" The noise sounded like a big noise. Lucy was so excited. She ran to the garden and saw a big pile"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the forest.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the forest. It was a cold day in the forest. On the way, there were a cold day in the forest. On the way, there were a cold day in the forest. On the way, there were a cold day in the forest. On the way, there were a cold day in the forest. On the way, there were a cold day in the forest. On the way, there were a"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a bear wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a bear wanted to He had a soft and soft coat. He asked the big bear, \"Can you help me get some some coat?\" The big bear smiled and said, \"Yes, I will help you!\" So So So So So So So So So So So So So So So So So So So So So So So So So So So So So So So So So So So So"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Mia told Bob about a map.",
+    "expected_entities": [
+      "Mia",
+      "Bob",
+      "Tom"
+    ],
+    "generated": "At school, Mia told Bob about a map. At school, Mia told Bob about a map. In the school, Mia handed a map to Bob. They played until sunset. At school, Mia told Bob about a map. In the school, Mia handed a map to Bob. They played until sunset. At school, Mia told Bob about a map. At school, Mia told Bob about a map. In the"
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice, Liam, and Ava were playing in the village.",
+    "expected_entities": [
+      "Alice",
+      "Liam",
+      "Ava"
+    ],
+    "generated": "Alice, Liam, and Ava were playing in the village. Alice, Liam, and Ava were playing in the village. At the village, Alice noticed a paintbrush and called Ava and Bob over. They played with it happily. Alice, Liam, and Ava were playing in the village. At the village, Alice noticed a paintbrush and"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a dog wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a dog wanted to He was a nice dog, so he ran around the park and saw a big pile of leaves. He ran over to smell some leaves and he saw a big pile of leaves. He thought it was so cool and he ran over to smell the leaves. But when he got there, he saw a big pile of leaves. He thought it was so cool he ran over and"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. Once It was a cold day in the park. It It It was a cold day in the park. It was a cold day in the park. It It It It was"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious dog found a mysterious book and",
+    "expected_entities": [],
+    "generated": "A curious dog found a mysterious book and The curious dog found a mysterious book and scared it away. The curious dog found a mysterious book in the garden. The curious dog wanted to know what it did, so he ran to the garden and found a mysterious book in the garden. The curious dog took the mysterious book and started to explore it. But then, something strange happened and the curious dog got a mysterious book"
+  },
+  {
+    "category": "entity",
+    "prompt": "Liam, Olivia, and Liam were playing in the village.",
+    "expected_entities": [
+      "Liam",
+      "Olivia"
+    ],
+    "generated": "Liam, Olivia, and Liam were playing in the village. Liam, Olivia, and Liam were playing in the village. At the village, Liam noticed a key and called Liam and Liam over. They played with it happily. Liam, Olivia, and Liam were playing in the village. At the village, Liam noticed a key and Liam over."
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the school, and",
+    "expected_entities": [],
+    "generated": "A storm started in the school, and The little boy was in the school, and The little boy was in the school, and The little boy was in the school, and The little boy was in the school, and The little boy was in the school, and The little boy was in the school, and The little boy was in the school, and"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma lost a key, then",
+    "expected_entities": [],
+    "generated": "Emma lost a key, then Emma was a key. Emma was a key and liked to explore the world. One day, Emma was a key and she was a key and she was a key and she was a key and she was a key. Emma was having so much fun that she started to look for something to cover the world with her key. Suddenly, Emma saw a key in the distance. She knew it was"
+  },
+  {
+    "category": "entity",
+    "prompt": "Jack helped Noah after they lost a book.",
+    "expected_entities": [
+      "Jack",
+      "Noah",
+      "Mia"
+    ],
+    "generated": "Jack helped Noah after they lost a book. Jack helped Noah after they lost a book. Jack helped Noah after they lost a book. Jack helped Noah after they lost a book. Jack helped Noah after they lost a book. Jack helped Noah after they lost a book. Jack helped Noah after they lost a book. Jack helped No"
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small beach, a dog lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small beach, a dog lived with his family. One day, a dog lived with his family. One day, the dog was in the garden with his family. Suddenly, a big storm came. The storm came and the rain started to grow. The wind blew the dog and the family started to fall. The dog was scared and ran away. He was sad and ran after his family. His family was sad and cried again. The"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a dog who The dog lived in a small house with a little girl named Sarah. She loved to play in the house and watch the birds fly in the sky. One day, Sarah saw a big truck in the sky. She wanted to play with the big truck in the sky. But the big truck was not happy. It made Sarah very sad. The big truck was not happy. It"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Alice told Bob about a box.",
+    "expected_entities": [
+      "Alice",
+      "Bob",
+      "Jack"
+    ],
+    "generated": "At school, Alice told Bob about a box. At school, Alice told Bob about a box. In the school, Alice handed a box to Bob. They played until sunset. At school, Alice told Bob about a box. In the school, Alice handed a box to Bob. They played until sunset. At school, Alice told Bob about a box. In the school, Alice told Bob about a box. In the school, Alice handed a"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the beach, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the beach, something strange A small little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little"
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia, Liam, and Mia were playing in the village.",
+    "expected_entities": [
+      "Mia",
+      "Liam"
+    ],
+    "generated": "Mia, Liam, and Mia were playing in the village. Mia, Liam, and Mia were playing in the village. Mia, Liam, and Mia were curious about a book in the village. After some adventures, they all became friends. Mia, Liam, and Mia were playing in the village. Mia, Liam, and Mia were playing in the village. Mia, Liam, and Mia were playing in"
+  },
+  {
+    "category": "entity",
+    "prompt": "Lucy helped Liam after they lost a key.",
+    "expected_entities": [
+      "Lucy",
+      "Liam",
+      "Emma"
+    ],
+    "generated": "Lucy helped Liam after they lost a key. Lucy and Tom were after they lost a key. Lucy and Tom were so happy to see the key on the ground. They decided to help the key find it. They took the key to the glove and found it. They were so happy to see the key again. They hugged and said, \"Thank you, Lucam, for a good adventure!\" Lucy helped Liam"
+  },
+  {
+    "category": "structure",
+    "prompt": "Mia and Ava were best friends.",
+    "expected_entities": [],
+    "generated": "Mia and Ava were best friends. Mia and Ava were best friends. Mia and Ava were best friends. Mia and Ava were best friends. Mia and Ava were best friends. Lily and Ava were best friends. Mia and Ava were best friends. Mia and A"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Olivia was late for school because the lights went out, so",
+    "expected_entities": [],
+    "generated": "Olivia was late for school because the lights went out, so Olivia was late for school because the lights went out, so Olivia was late for school because the lights went out, so Olivia was late for school because the lights went out, so Olivia was late for school because the lights went out, so Olivia was"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a dog who Timmy who loved to play in the garden. One day, Timmy saw a big pool with lots of fish swimming in it. He wanted to catch some fish but his mom said no because he had to eat too much food. Timmy was sad and didn't know what to do. Then, a kind lady saw him and asked him what was wrong. Timmy told her about the big"
+  },
+  {
+    "category": "entity",
+    "prompt": "Olivia and Alice went to the beach to find a box.",
+    "expected_entities": [
+      "Olivia",
+      "Alice",
+      "Tom"
+    ],
+    "generated": "Olivia and Alice went to the beach to find a box. Olivia and Alice went to the beach to find a box. Olivia and Alice went to the beach to find a box. When they arrived, they found a box and inside the box and inside the box and inside the box and inside was a box and inside the box and inside the box and inside the box and inside"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the village.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the village. It was a cold day in the village. On the day, on the day, on the day, on the day, on the day, on the day, on the day, on the day, on the day, on the day, on the day, on the day, on the day, on the day, on the day, on the day, on the day, on the day, on the day, on the day, on"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Jack was late for school because she heard a strange noise, so",
+    "expected_entities": [],
+    "generated": "Jack was late for school because she heard a strange noise, so Jack was late for school because she heard a strange noise coming from his class. When Jack arrived at the class, he saw a very strange noise coming from the classroom. It was a parade of people who were waving at him. Jack felt very scared and wanted to run away. But his friends were so busy and told him to stay with his"
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice and Liam went to the beach to find a treasure.",
+    "expected_entities": [
+      "Alice",
+      "Liam"
+    ],
+    "generated": "Alice and Liam went to the beach to find a treasure. Alice and Liam went to the beach to find a treasure. Alice found a treasure and Liam was very happy. They decided to make a treasure too. Alice and Liam went to the beach to find a treasure. Alice found a treasure and Liam found a treasure and Liam got excited. They decided to make a treasure with all their"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a fox. Once upon a time, there was a fox. The fox was always very curious and always wanted to explore the world. One day, the fox went looking for the world. He saw a big tree and he was very happy. He decided to climb the tree and see what was there. The fox was so excited to see the world. So he decided to climb the tree and see"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the park, and",
+    "expected_entities": [],
+    "generated": "A storm started in the park, and A bird was in the park, and she was in the park, and she was in the park, but she was there to play with her dolls. In the park, the bird started to get very tired and she stopped to help her mommy. She saw a bird and said, \"Oh no! I need to go home!\" But the storm was too strong and the bird had to go home."
+  },
+  {
+    "category": "entity",
+    "prompt": "Noah, Liam, and Jack were playing in the park.",
+    "expected_entities": [
+      "Noah",
+      "Liam",
+      "Jack"
+    ],
+    "generated": "Noah, Liam, and Jack were playing in the park. Noah, Liam, and Jack were playing in the park. Noah, Liam, and Jack found a key in the park and decided to share it. Noah, Liam, and Jack joined to explore and learn together. Noah, Liam, and Jack were playing in the park. No"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Noah found the ball,",
+    "expected_entities": [],
+    "generated": "After Noah found the ball, At AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the park, and",
+    "expected_entities": [],
+    "generated": "A storm started in the park, and Timmy and Timmy were playing in the park, and A storm started in the park, and A storm started in the park, and A storm started in the park, and Timmy and Timmy were playing in the park, and Max and Timmy Sally were playing in the park, and Timmy and Timmy Timmy Timmy were playing in the"
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma, Lucy, and Ava were playing in the village.",
+    "expected_entities": [
+      "Emma",
+      "Lucy",
+      "Ava"
+    ],
+    "generated": "Emma, Lucy, and Ava were playing in the village. Emma, Lucy, and Ava were playing in the village. Emma, Lucy, and Ava were curious about a lantern. Together, they learned how to use it and had fun. Emma, Lucy, and Ava were playing in the village. Emma, Lucy, and Ava were playing in the village. Emma, Lucy,"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a cat.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a cat. He was a cat. One day, he went to the park with his mom. While they were playing, he saw a little mouse. He wanted to play with it. But before he could play with the bird, his mom told him that he was too small. So his mom told him that he could have fun and play with the bird. The cat was so happy, he ran to"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Noah told Lucy about a box.",
+    "expected_entities": [
+      "Noah",
+      "Lucy",
+      "Jack"
+    ],
+    "generated": "At school, Noah told Lucy about a box. At school, Noah told Lucy about a box. Noah looked at Noah as they found a box at the school. Together, they had fun. At school, Noah told Lucy about a box. Noah showed Lucy about a box. Noah looked at Noah as they found a box at the school. Together, they had fun. At school, No"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Mia found the box,",
+    "expected_entities": [],
+    "generated": "After Mia found the box, Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! Jake! JakeJake! Jake! Jake!"
+  },
+  {
+    "category": "entity",
+    "prompt": "Jack helped Bob after they lost a ball.",
+    "expected_entities": [
+      "Jack",
+      "Bob"
+    ],
+    "generated": "Jack helped Bob after they lost a ball. Jack helped Bob after they lost a ball. Jack helped Bob after they lost a ball. Jack helped Bob after they lost a ball. Jack helped Bob after they lost a ball. Jack helped Bob after they lost a ball. Jack helped Bob after they lost a ball. Jack helped Bob after they lost a ball."
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a fox. The fox was a fox. One day, a fox went on a walk and saw a big, juicy berry on the ground. The fox was so happy and he said to his friend, \"Do you want to try some more berry?\" The fox replied, \"Yes, I want to try some more berry?\" The fox said, \"Yes, I want to try some more berry.\""
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious cat found a mysterious book and",
+    "expected_entities": [],
+    "generated": "A curious cat found a mysterious book and It was a mysterious book and it it it it it it it never wanted to play with it. One day, a curious cat found a mysterious book and he was so excited that he wanted to try it. The curious cat took the curious cat to the mysterious book and he was so excited that he wanted to try it. The curious cat took the curious cat to"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": [],
+    "generated": "A storm started in the beach, and Once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once there was once"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the forest, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the forest, something strange Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy Timmy"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bear found a mysterious treasure and",
+    "expected_entities": [],
+    "generated": "A curious bear found a mysterious treasure and It was a mysterious treasure and a big box in the forest. One day, a curious bear found a mysterious treasure and decided to explore it. As the bear was walking through the forest, he heard a voice. The voice said, \"Hello little bear is a mysterious treasure and it is a mysterious treasure and you are curious. I am a mysterious treasure and you are curious. Where can"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Bob lost a book, then",
+    "expected_entities": [],
+    "generated": "Bob lost a book, then Bob wanted to go on a walk. He ran around the garden with his mom to help him find a book in the garden. But then he saw a book in the garden. It was big and big and big and looked so so so so so so so so so he quickly ran to the garden and found a book in the garden. But then he saw a book in the"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bear found a mysterious map and",
+    "expected_entities": [],
+    "generated": "A curious bear found a mysterious map and It was a mysterious map and a big scary looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking looking"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bird who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bird who The bird was very hungry and wanted to eat some some some some some of the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the"
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small park, a rabbit lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small park, a rabbit lived with his family. One day, the rabbit lived with his family. They were all very happy, but they did not know what to do. The rabbit said, \"I will be the judge of the other rabbits in the world. But I will be the judge of the other rabbits in the world and I will be the guard of my family.\" The bad ending of the rabbit, who lived"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the beach.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the beach. It was a cold day in the beach. It was a cold day in the beach. There It was a cold day in the beach. It was a cold day in the beach. It It was a cold day in the beach. It It was a cold day in the beach. It"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a fox. He lived in a forest. One day, he was walking through the forest when he saw something very special. It was a big bowl of yummy treats! He went over to take a bite and it tasted really good! He was so happy! He was so happy! He was so happy that he wanted to eat the yummy treats! He decided to go and have a treat"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma lost a box, then",
+    "expected_entities": [],
+    "generated": "Emma lost a box, then Emma went to visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small school, a bird discovered a treasure that",
+    "expected_entities": [],
+    "generated": "In a small school, a bird discovered a treasure that Bob had discovered a treasure that he loved. It was a treasure with lots of interesting things. Bob wanted to take the treasure home, but he couldn't find the treasure he had found. He decided to go on a journey to find the treasure he had found. He searched and searched, but he couldn't find it. Just then, a little girl came to the town and saw"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Noah was late for school because the lights went out, so",
+    "expected_entities": [],
+    "generated": "Noah was late for school because the lights went out, so Noah was late for school because the lights went out, so it went out, so it went out, so it went out, so it went out, so it went out, so it went out, so it went out, so it went out, so it went out, so it went out, and so it went out, and so it went out, and so it went"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the park, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the park, something strange A small little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little"
+  },
+  {
+    "category": "entity",
+    "prompt": "Lucy, Olivia, and Lucy were playing in the village.",
+    "expected_entities": [
+      "Lucy",
+      "Olivia"
+    ],
+    "generated": "Lucy, Olivia, and Lucy were playing in the village. Lucy, Olivia, and Lucy were playing in the village. At the village, Alice noticed a lantern and called Lucy and Lucy over. They played with it happily. Lucy, Olivia, and Lucy were playing in the village. At the village, Alice noticed a lantern and Lucy over. They played with it happily. Lucy, Olivi"
+  },
+  {
+    "category": "structure",
+    "prompt": "Alice and Olivia were best friends.",
+    "expected_entities": [],
+    "generated": "Alice and Olivia were best friends. Alice and Olivia were best friends. They always loved to help each other with anything they could. One day, Alice and Olivia were best friends. They always loved to help each other with anything they could. Alice and Olivia were best friends. They always loved to help each other with anything they could. Alice and Olivia were best friends. They always"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a dog who Timmy who loved to play in the garden. One day, he found a print on the ground and he was very happy and he wanted to help his friend, Amy, to come play with him. But when he got to the garden, he saw a print on the ground and he was very sad and he wanted to help his friend, Amy, to come play with"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a fox who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a fox who He was a fox who loved to explore the world. One day, he decided to go on an adventure to explore the world. He was so excited to explore the world. He started to explore the world. He saw a beautiful garden and saw a beautiful garden and saw a beautiful garden and saw a beautiful garden and saw a beautiful garden and saw a beautiful garden with"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bird found a mysterious box and",
+    "expected_entities": [],
+    "generated": "A curious bird found a mysterious box and He opened opened opened opened opened opened opened opened Inside Inside Inside Inside Inside Inside Inside Inside Inside Inside Inside Inside Inside Inside Inside Inside Inside Inside Inside Inside Inside, there were lots of delicious treats and sweets! He was so happy and excited to have some. Inside was a magical treat. The bird was so happy and excited to have some. The mystery was a magic"
+  },
+  {
+    "category": "entity",
+    "prompt": "Liam, Mia, and Alice were playing in the school.",
+    "expected_entities": [
+      "Liam",
+      "Mia",
+      "Alice"
+    ],
+    "generated": "Liam, Mia, and Alice were playing in the school. Liam, Mia, and Alice were playing in the school. Liam, Mia, and Alice found a paintbrush in the playground and decided to share it. Liam, Mia, and Alice joined to explore and learn together. Liam, Mia, and Alice were playing in the school. Liam, Mia, and Alice were playing in the"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma lost a treasure, then",
+    "expected_entities": [],
+    "generated": "Emma lost a treasure, then Sarah was a little boy who had a treasure chest. She searched everywhere for it, but she couldn't find it. Emma asked her friend, Jack, for help. Jack said, \"We have a treasure, so I can go on an adventure.\" So they went on an adventure to find the treasure. When they got to the island, Emma found the treasure. She searched everywhere for it, but she couldn't find it."
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan helped Ava after they lost a book.",
+    "expected_entities": [
+      "Ethan",
+      "Ava",
+      "Liam"
+    ],
+    "generated": "Ethan helped Ava after they lost a book. Ethan helped Ava after they lost a book. Ethan was very excited to help Ava find a book in the garden. Ethan helped Ava find a book in the garden. Ethan helped Ava find a book in the garden. Ethan was very happy to help Ava and Ava were"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Lucy was late for school because the lights went out, so",
+    "expected_entities": [],
+    "generated": "Lucy was late for school because the lights went out, so Sarah was late for school because the lights went out, so Lucy was late for school because the lights went out, so Lucy was late for school because the lights went out, so Lucy was late for school because the lights went out, so Lucy was late for school because the lights went out, so Lucy"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It It It was a cold day in the school. It It was a cold day in the school. It was a cold"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It It It It It was a cold day in the school. It It It It was a cold day in the school."
+  },
+  {
+    "category": "structure",
+    "prompt": "Noah and Emma were best friends.",
+    "expected_entities": [],
+    "generated": "Noah and Emma were best friends. Noah and Emma were best friends. Noah and Emma were best friends. Noah and Emma were best friends. Noah and Emma were best friends. Noah and Emma were best friends. Noah and Emma were best friends. Henry and Emma were best friends."
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a cat.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a cat. He loved to play in the garden. One day, a little girl came to the garden. She saw a big tree and said, \"I want to be a big big big big big big big big big big big big big big big big big big big big big big big big big big big and big big big big big big big big big big big big and"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the beach, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the beach, something strange The The The The The The The The The The The The The The The The The the cam's bed was dark. One day, a big storm came in. The sun was dark and the rain was bright. The rain was bright. The sun was bright. The sun was bright. The rain was bright. The sun was bright. The sun was bright. The sun was bright. The sun"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a dog wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a dog wanted to Rong a dog was very excited to go to the park, but the park was too heavy for him to reach. He asked his mom if he could try to reach it, but she said no. Long a dog was very sad and started to cry. Then a friendly dog came and saw Long a dog and wanted to help. The dog said, \"Let me help"
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice helped Emma after they lost a ball.",
+    "expected_entities": [
+      "Alice",
+      "Emma"
+    ],
+    "generated": "Alice helped Emma after they lost a ball. Alice had a ball in the park. Alice had a ball in the park. Alice was very happy and started to cry. She ran and ran until until until until until until no one saw her. Alice was so happy and started to cry. She ran and ran until until until no one saw her. Alice was so happy and stopped crying. She was so happy and started to"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bear who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bear who The bear lived in the forest with his mum. One day, the bear was walking in the forest when he saw a big fire. He was very scared and he ran away as fast as he could. The bear was very scared and he ran away as fast as he could. He ran far and far until he reached the end of the forest. After the bear was"
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia and Emma went to the school to find a book.",
+    "expected_entities": [
+      "Mia",
+      "Emma",
+      "Liam"
+    ],
+    "generated": "Mia and Emma went to the school to find a book. Mia and Emma went to the school to find a book. At the school, Emma found a book and decided to write it. Mia and Emma sat on a book and Tom read it together. They laughed and had fun. Suddenly, a loud noise came from the classroom. The noise was coming from the classroom. They were scared and ran away. The teacher tried to help"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": [],
+    "generated": "A storm started in the beach, and Timmy and Timmy were playing in the beach, and A storm started in the beach, and A storm started in the beach, and A storm started in the beach, and A storm started in the beach, and Timmy Timmy and Timmy were playing in the beach, and Timmy and Timmy Timmy Timmy Timmy were playing in the beach,"
+  },
+  {
+    "category": "entity",
+    "prompt": "Noah, Lucy, and Noah were playing in the school.",
+    "expected_entities": [
+      "Noah",
+      "Lucy"
+    ],
+    "generated": "Noah, Lucy, and Noah were playing in the school. Noah, Lucy, and Noah were playing in the school. Noah, Lucy, and Noah found a hat in the school and decided to share it. Noah gave it to Noah as they shared it. Then, Noah and Noah had fun. Noah, Lucy, and Noah were playing in the school."
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan, Jack, and Ethan were playing in the beach.",
+    "expected_entities": [
+      "Ethan",
+      "Jack"
+    ],
+    "generated": "Ethan, Jack, and Ethan were playing in the beach. Ethan, Jack, and Ethan were playing in the beach. Ethan, Jack, and Ethan were curious about a treasure in the shore. After some adventures, they all became friends. Ethan, Jack, and Ethan were playing in the beach. Ethan, Jack, and Ethan were playing in the beach."
+  },
+  {
+    "category": "structure",
+    "prompt": "Noah and Bob were best friends.",
+    "expected_entities": [],
+    "generated": "Noah and Bob were best friends. Noah and Bob were best friends. Noah and Bob were best friends. Noah and Bob were best friends. Noah and Bob were best friends. Noah and Bob were best friends. Noah and Bob were best friends. They They best friends. Noah"
+  },
+  {
+    "category": "entity",
+    "prompt": "Jack helped Emma after they lost a map.",
+    "expected_entities": [
+      "Jack",
+      "Emma"
+    ],
+    "generated": "Jack helped Emma after they lost a map. Jack helped Emma after they lost a map. Jack helped Emma after they lost a map. Jack helped Emma after they lost a map. Jack helped Emma after they lost a map. Jack helped Emma after they lost a map. Jack helped Emma after they lost a map. Jack"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small forest, a cat discovered a treasure that",
+    "expected_entities": [],
+    "generated": "In a small forest, a cat discovered a treasure that Timmy had discovered a treasure that was locked. Timmy was curious and wanted to explore the forest, so he decided to explore the forest, so he decided to explore the forest, so he decided to explore the forest, so he decided to explore the forest, so he started to explore the forest, until he came to a clearing with a treasure he found - a treasure that"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a cat who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a cat who The cat was a cat who loved to play in the garden. One day, he found a big box of a big box of a big box. The box of a big box of a big box. The box of a big box of a big box of a big box. The box of a big box of a big box. The box of a small box of"
+  },
+  {
+    "category": "structure",
+    "prompt": "Olivia and Jack were best friends.",
+    "expected_entities": [],
+    "generated": "Olivia and Jack were best friends. Olivia and Jack were best friends. Olivia and Jack were best friends. Olivia and Jack were best friends. Olivia and Jack were best friends. Olivia and Jack were best friends. Olivia and Jack were best friends. Olivia and Jack were best friends. Oli"
+  },
+  {
+    "category": "structure",
+    "prompt": "Mia and Emma were best friends.",
+    "expected_entities": [],
+    "generated": "Mia and Emma were best friends. Mia and Emma were best friends. One day, Mia and Emma were best friends. They went to the park and Emma wanted to go too! Mia and Emma decided to go too! They went to the park and Emma had a great time. They played with the swings and the slide and the slide and the slide and the slide slide and the slide and the slide and the slide and"
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan, Olivia, and Lucy were playing in the beach.",
+    "expected_entities": [
+      "Ethan",
+      "Olivia",
+      "Lucy"
+    ],
+    "generated": "Ethan, Olivia, and Lucy were playing in the beach. Ethan, Olivia, and Lucy were playing in the beach. Ethan, Olivia, and Lucy were curious about a map in the beach. After some adventures, they all became friends. Ethan, Olivia, and Lucy were playing in the beach. Ethan, Olivia, and Lucy were playing"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a fox wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a fox wanted to Gong in a cave. Long in was very excited to explore the cave but not allowed to go near it. \"It's too dangerous!\" Long in no time there were two foxes who lived in a cave. Long in was scared and ran to the cave but not there. Suddenly, Long in was a cave. Laong in was a cave. The cave"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ava told Noah about a box.",
+    "expected_entities": [
+      "Ava",
+      "Noah",
+      "Emma"
+    ],
+    "generated": "At school, Ava told Noah about a box. At school, Ava told Noah about a box. Ava and Noah discovered a box in the school. They decided to explore together. At school, Ava told Noah about a box. Ava showed Noah about a box. Together, Ava handed a box to Noah about a box. Ava"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ava told Mia about a key.",
+    "expected_entities": [
+      "Ava",
+      "Mia"
+    ],
+    "generated": "At school, Ava told Mia about a key. At school, Ava told Mia about a key. Mia looked at Ava as they found a key at the school. Together, they had fun. At school, Ava told Mia about a key. In the school, Ava told Mia about a key. Mia looked at Ava as they found a key at the school. Together, they"
+  },
+  {
+    "category": "structure",
+    "prompt": "Alice and Ethan were best friends.",
+    "expected_entities": [],
+    "generated": "Alice and Ethan were best friends. Alice and Ethan were best friends. Alice and Ethan were best friends. Alice and Ethan were best friends. Alice and Ethan were best friends. Alice and Ethan were best friends. They Alice and Ethan were best friends. They Alice and Ethan were best friends. Alice and Ethan"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a dog wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a dog wanted to He hopped all around the garden and saw a big pile of leaves. Long the bush was so excited to see the pile of leaves and learn how to make the leaves go up. He hopped up to the pile and saw a big pile of leaves. He hopped over to the pile and saw a small pile of leaves. He hopped over to the pile and saw"
+  },
+  {
+    "category": "entity",
+    "prompt": "Ava, Emma, and Mia were playing in the school.",
+    "expected_entities": [
+      "Ava",
+      "Emma",
+      "Mia"
+    ],
+    "generated": "Ava, Emma, and Mia were playing in the school. Ava, Emma, and Mia were playing in the school. At the school, Mia noticed a key and called Ava and Emma over. They played with it happily. Ava, Emma, and Mia were playing in the school. Ava, Emma, and Mia were playing in the school. Ava,"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It It It was a cold day in the park. It was a cold day in the park. It It It was"
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia helped Noah after they lost a map.",
+    "expected_entities": [
+      "Mia",
+      "Noah",
+      "Liam"
+    ],
+    "generated": "Mia helped Noah after they lost a map. Mia helped Noah after they lost a map. Mia helped Noah after they lost a map. Mia helped Noah after they lost a map. Mia helped Noah after they lost a map. Mia helped Noah after they lost a map. Mia helped Noah after they lost"
+  },
+  {
+    "category": "entity",
+    "prompt": "Lucy helped Tom after they lost a book.",
+    "expected_entities": [
+      "Lucy",
+      "Tom",
+      "Alice"
+    ],
+    "generated": "Lucy helped Tom after they lost a book. Lucy helped Tom after they lost a book. Lucy had a book that she loved to sing, but Tom accidentally dropped the book and it fell from her hands and got it stuck from her hands and got it stuck from her hands and got it stuck from her hands and got it stuck from her hands and got it stuck from her hands and got it stuck"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bird who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bird who The bird had a very special feather that he loved to fly around. The bird loved to fly around and play with his friends. One day, the bird found a broken bow on the ground. The bird felt sad because it was lost and didn't know how to get it. The bird asked its friend, a little bird and a little bird, and a little bird who was"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the forest, and",
+    "expected_entities": [],
+    "generated": "A storm started in the forest, and Timmy and Timmy were playing in the forest, and A storm started in the forest, and A storm started in the forest, and in A storm started in the forest, and Timmy and Timmy were playing in the forest, and Timmy and Timmy were playing in the forest, and Timmy and Timmy Timmy were playing in the forest,"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a cat who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a cat who The cat lived in a small house with his owner, a little girl named Lily. One day, Lily and her friend Timmy were playing in the big house with their friend, a little girl named Lily. They were playing with the big house with their friend, a little girl named Lily. One day, Lily and her friend Timmy were playing in the big house with their friend, a"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious dog found a mysterious ball and",
+    "expected_entities": [],
+    "generated": "A curious dog found a mysterious ball and It was a mysterious ball and it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious dog found a mysterious key and",
+    "expected_entities": [],
+    "generated": "A curious dog found a mysterious key and Timmy was walking walking walking walking walking walking walking walking walking walking walking walking walking walking walking walking walking walking walking walking walking on the walking walking walking walking walking walking and soon he came to a clearing and he came to a clearing in the forest. He was so curious and started to look at that he saw a mysterious key in the bushes. He was so curious"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Tom lost a key, then",
+    "expected_entities": [],
+    "generated": "Tom lost a key, then Tom was Tom was Tom was Tom was Tom and he was Tom and he was Tom and he was Tom and he was Tom and he was Tom and he was Tom and he was Tom and he was Tom and he was Tom and he was Tom and he was Tom and he was Tom and he was Tom and he was Tom and he was Tom and he was"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a dog wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a dog wanted to Long a dog wanted to visit Gong a dog named Tim. Long a dog named Spot was very happy to see Gong a dog and take care of Gong a dog and take care of Gong a dog and take care of Gong a dog and take care of Gong a dog for her too. One day, Long a dog"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the village, and",
+    "expected_entities": [],
+    "generated": "A storm started in the village, and The sun was in the village, and The sun was in the village, and The sun started in the village, and The sun started in the village, and The sun started in the village, and A storm started in the village, and A storm started in the village, and A storm started in"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Mia was late for school because it was raining, so",
+    "expected_entities": [],
+    "generated": "Mia was late for school because it was raining, so She had been stuck in the park and when she opened the door, she saw a little girl in the park. She was crying because she was so scared that she started to cry. Mia wanted to hug the girl but she was too scared to move. She looked around the park and saw it was raining! But then she remembered the rainbow and decided"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the beach, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the beach, something strange Suddenly, there there there there there was a bright, shiny thing in the sand. It was a bright, shiny thing in the sand. It was a bright, shiny thing in the sand. It was a bright, shiny thing in the sand. It was a bright, shiny thing in the sand. It was a bright, shiny thing in the sand. The shiny thing was a bright, shiny thing in the"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Ava found the key,",
+    "expected_entities": [],
+    "generated": "After Ava found the key, Ava found the key, named Ava and Ava were curious about a toy in the park. After some adventures, they all became friends. After Ava found the key, After Ava found the key, After Ava found the key, named Ava found the key, After Av"
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan helped Mia after they lost a book.",
+    "expected_entities": [
+      "Ethan",
+      "Mia"
+    ],
+    "generated": "Ethan helped Mia after they lost a book. Ethan helped Mia after they lost a book. Ethan was excited to help Mia by and help her with the book. Ethan helped Mia look for a book in the hall but they couldn't find one. Ethan helped Mia find the book in the hall but they couldn't find one. Ethan helped Mia by giving them the book. Ethan helped Mia with"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Liam found the ball,",
+    "expected_entities": [],
+    "generated": "After Liam found the ball, After Liam found the ball, Cat. He was very happy and shared his toys with his friends. They played with it every day and had lots of fun. After Liam found the ball, Cat. He was very happy and shared his toys with his friends. They played with it every day and had lots of fun. After Liam found the ball, C"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Tom found the treasure,",
+    "expected_entities": [],
+    "generated": "After Tom found the treasure, Tim found the treasure. Tom found the treasure, but he was very happy. He wanted to share it with his friend, Sam. Sam saw the treasure, but he was very happy. He wanted to share it with his friend, Sam. Sam saw the treasure, but he was very happy. He could share it with his friend, Sam. Sam liked the treasure, but he was very happy. He wanted to share it with"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because she heard a strange noise, so",
+    "expected_entities": [],
+    "generated": "Emma was late for school because she heard a strange noise, so She was late for school because she heard a strange noise, so she went to school and said to her mum, \"Mummy, look! A weird noise coming from the ground!\" Her mum replied, \"That's a weird noise, so it is like a big monster!\" Emma was scared and started to get scared. But her mum said, \"Don't worry, Emma. I will help you"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a dog who The dog was very hungry and wanted to eat some some some some some some some some some some to eat. The dog was very hungry and wanted to eat some some some some some some some of the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the village, and",
+    "expected_entities": [],
+    "generated": "A storm started in the village, and It was in the village, and A storm started in the village, and A storm started in the village, and A storm started in the village, and A storm started in the village, and It A storm started in the village, and A storm started in the village, and A Soon, A"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the forest, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the forest, something strange It was a caw, something strange popped out of the bushes. It was a caw, so it was a caw, so it was a caw, so it started to bloom! The caw, and the cave became a caw, even bigger - it was a caw, so it was a caw, and it was a caw, so it was a"
+  },
+  {
+    "category": "structure",
+    "prompt": "Ava and Emma were best friends.",
+    "expected_entities": [],
+    "generated": "Ava and Emma were best friends. Ava was best friends. One day, Ava and Emma decided to explore the nearby forest. They decided to explore the forest together. When they got to the forest, Ava noticed a big pile of leaves and decided to explore it. Ava and Emma decided to explore the forest together. They decided to explore the forest together. When they got to the"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Bob told Emma about a box.",
+    "expected_entities": [
+      "Bob",
+      "Emma"
+    ],
+    "generated": "At school, Bob told Emma about a box. At school, Bob told Emma about a box. In the school, Bob handed a box to Emma. They played until sunset. At school, Bob told Emma about a box. In the school, Bob handed a box to Emma. They played until sunset. At school, Bob told Emma about a box. In the school, Bob told Emma about a box. In the school, Bob handed a"
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Emma were best friends.",
+    "expected_entities": [],
+    "generated": "Bob and Emma were best friends. Bob and Emma were best friends. They went to every day together and had lots of fun. One day Bob and Emma were best friends. They went to every day together and had lots of fun. But when they got to the park, Bob got to the park and Emma got to go to the park. Bob was sad because he could not go to the park and Emma was sad."
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a rabbit wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a rabbit wanted to Long Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat Bat B"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bear who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bear who Once upon a time, there was a bear who loved to go on a walk in the forest in the forest in the forest in the forest and every day he would go on his walk in the forest in the forest and every day he would go on his walk in the forest in the forest in the forest and every day he would go on his"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a dog.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a dog. Once upon a time, there was a dog. The dog was a good dog, but he was always very scared. One day, the dog saw a big puddle in the park. He wanted to play in the park, but he was scared. He ran away into the park to see what was there. But then, the dog saw a big puddle in the park. He wanted to play in"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a fox who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a fox who Bubbles. Bubbles was very very hungry and wanted to eat some some some some some of the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the"
+  },
+  {
+    "category": "entity",
+    "prompt": "Olivia, Ava, and Lucy were playing in the beach.",
+    "expected_entities": [
+      "Olivia",
+      "Ava",
+      "Lucy"
+    ],
+    "generated": "Olivia, Ava, and Lucy were playing in the beach. Olivia, Ava, and Lucy were playing in the beach. Olivia, Ava, and Lucy were curious about a treasure in the beach. After some adventures, they all became friends. Olivia, Ava, and Lucy were playing in the beach. Olivia, Ava, and Lucy were playing"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a cat wanted to He wanted to help with his friend, Sammy. He asked his friend, Sammy the squirrel, to help with open the jar. Jack was very happy and ran to the jar with the jar with the jar with the jar with the jar with the jar with the jar with the jar with the jar with the jar with the jar with the jar with the jar with the jar"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Liam told Noah about a book.",
+    "expected_entities": [
+      "Liam",
+      "Noah"
+    ],
+    "generated": "At school, Liam told Noah about a book. At school, Liam told Noah about a book. Liam and Noah discovered a book in the school. They decided to explore together. At school, Liam told Noah about a book. In the school, Liam handed Noah a book in the school. They decided to explore together. At school, Liam told Noah about a"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ethan was late for school because he forgot his homework, so",
+    "expected_entities": [],
+    "generated": "Ethan was late for school because he forgot his homework, so Ethan was late for school because he forgot his homework, so he decided to go to the park and play. But Ethan was busy playing and he forgot his homework, so he decided to go to the park and play it again. Ethan was late for school and he forgot his homework, so he forgot his homework"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bird.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bird. One day, a bird went to a a big tree with a bow on top. The bird was very happy and loved to fly around in the sky. But then, a big wind blew and it got stuck on the branch. The bird was very sad and missed to fly around in the sky. But then, a big wind blew and it got stuck on the branch. The bird"
+  },
+  {
+    "category": "entity",
+    "prompt": "Liam, Bob, and Lucy were playing in the village.",
+    "expected_entities": [
+      "Liam",
+      "Bob",
+      "Lucy"
+    ],
+    "generated": "Liam, Bob, and Lucy were playing in the village. Liam, Bob, and Lucy were playing in the village. While in the village, Liam, Bob found a lantern in the village. They decided to share it. Liam gave it to Liam and Lucy joined it. Liam, Bob, and Lucy were playing in the village. At the village, Liam, Bob, and Lucy were"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a cat wanted to Long a cat, called Gong a cat, called Grace, for dinner. Long a found a map and called Long to Gong a to Gong a to Gong a to Gong a to Gong a to Gong a to Gong a to Gong a to Gong a to Gong a to Gong a to"
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small forest, a bird lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small forest, a bird lived with his family. One day, a bird lived with his family. One day, the bird saw a little bird with a broken wing. The little bird was sad and scared. He wanted to help the little bird, so he flew to his mommy and said, \"Mommy, I can help you, little bird.\" Mommy looked at the bird with a broken wing. She said, \"Don't worry, little bird. I will help"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Bob lost a ball, then",
+    "expected_entities": [],
+    "generated": "Bob lost a ball, then Bob was playing playing in the park. Bob was feeling very lonely and he got a big hug. He was so lonely and he decided to go find a friend. Bob started to search for a friend. Bob saw a beautiful ball and he was so happy he started to take a friend. He wanted to find a friend and he started to make a friend. He ran around the park with"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the forest, and",
+    "expected_entities": [],
+    "generated": "A storm started in the forest, and A storm started in the forest, and A storm started in the forest, and A storm started in the forest, and A storm started in the forest, and A storm started in the forest, and a storm started in the forest, and a storm started in the forest, and a storm started in the forest, and"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small village, a dog discovered a treasure that",
+    "expected_entities": [],
+    "generated": "In a small village, a dog discovered a treasure that Tim found a treasure that was called from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a fox. Once upon a time, there was a fox. He lived on a farm with his family. One day, he was walking around the farm and he saw a little mouse in the bushes. The fox said, \"Hello little mouse! What are you doing?\" The little mouse! The little mouse! The little mouse! The little mouse! The little mouse's family was very mad. The"
+  },
+  {
+    "category": "structure",
+    "prompt": "Tom and Jack were best friends.",
+    "expected_entities": [],
+    "generated": "Tom and Jack were best friends. Tom and Jack were best friends. One day, Tom and Jack were best friends. They wanted to have a picnic in the park. But when they got to the park, they saw a big puddle. Tom and Jack were very scared. They ran away from the park and ran away. Tom and Jack ran after a big puddle. They ran and ran until they reached the park. But when they got"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bird.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bird. One day, there was a bird. It was a bird and the bird was was very happy. The bird wanted to fly high in the sky and see the world from above. So, the bird decided to fly high in the sky and see the world from above. So, the bird decided to fly high in the sky and see the world from above. As it was getting higher"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a cat wanted to Long in the oor, a cat wanted to help Long in the oor, to be happy and have fun. Long in the oor, would always have fun and have fun. One day, Long in the oor, found a big and big tree. He wanted to help Long in the oor, but there was no one. They argued and argu"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a rabbit.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a rabbit. Once upon a time, there was a rabbit. The rabbit was a very special rabbit, and he was always so happy when he ate something new. One day, the rabbit was a very special rabbit, and he was always so happy when he ate something new. He saw a big cake in the garden and he was sure what it was and he was sure what it was and"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a cat who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a cat who Timmy who loved to play in the garden. One day, Timmy saw a little bug who was very sad and didn't know what to do. He went to the garden and found a little bug who was very sad too. The little bug asked Timmy if he could help the little bug, but Timmy said no. The little bug felt bad and started to cry. Timmy felt bad"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious fox found a mysterious map and",
+    "expected_entities": [],
+    "generated": "A curious fox found a mysterious map and Timmy came to visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Liam was late for school because he forgot his homework, so",
+    "expected_entities": [],
+    "generated": "Liam was late for school because he forgot his homework, so Liam was late for school because he forgot his homework to do his homework, so he forgot his homework every day before bed. Liam was so sad and he started to cry. He tried to open his homework, but no matter how hard he tried, he couldn't reach it. He tried to open his homework, but it"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a dog.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a dog. Once upon a time, there was a dog. The dog was very big and big and big and big and big and big and big and big and big and big and big and big and big and big and big and big and big and big and big and big and big and loud and big and loud and loud and loud and loud and loud and loud"
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small beach, a cat lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small beach, a cat lived with his family. One day, a cat lived with his family. One day, a cat was hungry and wanted to eat a cookie. The cat was hungry and wanted to eat a cookie. But his mom said, \"No, the cat is too fast. You have to eat the pie.\" The cat was sad and started to cry. He wanted to eat the pie, but his mom said, \"You"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Olivia told Mia about a box.",
+    "expected_entities": [
+      "Olivia",
+      "Mia",
+      "Bob"
+    ],
+    "generated": "At school, Olivia told Mia about a box. At school, Olivia told Mia about a box. Olivia looked at Olivia as they found a box at the school. Together, they had fun. At school, Olivia told Mia about a box. Olivia showed Mia about a box. Olivia looked at Olivia as they found a box at the school. Together,"
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma, Liam, and Emma were playing in the school.",
+    "expected_entities": [
+      "Emma",
+      "Liam"
+    ],
+    "generated": "Emma, Liam, and Emma were playing in the school. Emma, Liam, and Emma were playing in the school. At the school, Emma noticed a ball and called Emma and Olivia over. They played with it happily. Emma, Liam, and Emma were playing in the school. Emma, Liam, and Emma were playing in the school. Emma, Liam"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the village.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the village. It was a cold day in the village. One day, a little girl came came came came came came came came came came came came came came came came came came came came came came came came came came came came came came came came came came came came coming came came came came came came came came came came came came came came came came came came came"
+  },
+  {
+    "category": "entity",
+    "prompt": "Ava, Emma, and Lucy were playing in the park.",
+    "expected_entities": [
+      "Ava",
+      "Emma",
+      "Lucy"
+    ],
+    "generated": "Ava, Emma, and Lucy were playing in the park. Ava, Emma, and Lucy were playing in the park. At the park, Lucy noticed a puzzle in the park. She told Alice about a puzzle and decided to share it. Emma was happy and played with it happily. Ava, Emma, and Lucy were playing in the park. Ava, Emma, and Lucy were"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a rabbit wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a rabbit wanted to Long in in in in the garden. But the garden was very deep and Long was not as tall as the other one. Long was sad, so he decided to go to the garden and go to the garden to save some honey. But the garden was too small and Long insy's shoulders. Finally, Long was sad. He wanted to find"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the park, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the park, something strange Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom Tom"
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small forest, a fox lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small forest, a fox lived with his family. One day, the fox was in the forest with his family. He was playing in the forest when he heard a loud noise. It was the sound of a loud noise. The noise was coming from the forest. The noise was coming from the forest and the fox was scared. The noise was coming from the forest. The noise was coming from the forest and the fox"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bear found a mysterious ball and",
+    "expected_entities": [],
+    "generated": "A curious bear found a mysterious ball and Joe was in the woods near near near the shore. The sun was shining brightly. Joe loved the ball so much that he wanted to play with it. But he was too curious and he started to complain to the shore. The shore was so strange and it made Joe very sad. Joe wanted to play with the ball so he grabbed it from the shore and started to"
+  },
+  {
+    "category": "structure",
+    "prompt": "Ethan and Emma were best friends.",
+    "expected_entities": [],
+    "generated": "Ethan and Emma were best friends. Ethan and Emma were best friends. Ethan and Emma were best friends. Ethan and Emma were best friends. Ethan and Emma were best friends. Ethan and Emma were best friends. Ethan and Emma were best friends. Ethan and Emma were best friends. They E"
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Emma were best friends.",
+    "expected_entities": [],
+    "generated": "Bob and Emma were best friends. Bob and Emma were best friends. One day Bob and Emma decided to go to the shop to buy some candy. Bob said, \"Let's go to the shop and buy some candy. When they got to the shop, they saw a big bag of candy. They both got to the shop and bought some candy. Bob said, \"Let's go to the shop and buy some candy.\" Emma said, \"Let's go"
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia and Emma went to the park to find a treasure.",
+    "expected_entities": [
+      "Mia",
+      "Emma"
+    ],
+    "generated": "Mia and Emma went to the park to find a treasure. Mia and Emma went to the park to find a treasure. They found a treasure and started to explore it. Mia and Emma went to the park to find something special. They saw a treasure and started to unpack it. Mia and Emma looked at each other and saw something amazing. A treasure was hidden in the sand. Mia and Emma were very happy. They decided"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small park, a bird discovered a treasure that",
+    "expected_entities": [],
+    "generated": "In a small park, a bird discovered a treasure that Tim had found a treasure that he had found in the park. The treasure was a treasure that someone had never seen before. Tim wanted to find the treasure, so he flew to the park and found a treasure that he had never seen before. The treasure was full of happy children who had never seen such a treasure before. The story was that Tim had found"
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma, Noah, and Emma were playing in the park.",
+    "expected_entities": [
+      "Emma",
+      "Noah"
+    ],
+    "generated": "Emma, Noah, and Emma were playing in the park. Emma, Noah, and Emma were playing in the park. Emma, Noah, and Emma were curious about a map in the park. After some adventures, they all became friends. Emma, Noah, and Emma were playing in the park. Emma, Noah, and Emma were playing in the park. Emma, Noa"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Lucy lost a book, then",
+    "expected_entities": [],
+    "generated": "Lucy lost a book, then Lucy was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy she was happy too. She was happy she was happy she was"
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan helped Jack after they lost a treasure.",
+    "expected_entities": [
+      "Ethan",
+      "Jack"
+    ],
+    "generated": "Ethan helped Jack after they lost a treasure. Ethan followed Jack after they lost a treasure. Ethan was very happy and started to look for her treasure to give her to. At the park, Ethan saw a treasure and called Ethan and Ethan for a treasure. Ethan was curious and decided to help Jack after they lost one but Ethan kept going anyway. Finally, they found the treasure and"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious cat found a mysterious key and",
+    "expected_entities": [],
+    "generated": "A curious cat found a mysterious key and It was a mysterious key and It was a mysterious key and It was a mysterious key and It was a mysterious key and It was a mysterious key and A A curious cat found a mysterious key and A curious cat found a mysterious key and A A"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the forest.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the forest. It was a cold day in the forest. It was a cold day in the forest. It was a cold day in the forest. It was a cold day in the forest. It It It was a cold day in the forest. It It It It was a cold day in the forest. It It"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Lucy was late for school because she heard a strange noise, so",
+    "expected_entities": [],
+    "generated": "Lucy was late for school because she heard a strange noise, so She was late for school because she heard a strange noise outside. When she opened the door, she saw a big truck with lots of smoke coming out of it. When Lucy opened the door, she saw a little boy with a big red balloon. The boy was so big and sparkly, he began to yell at Lucy. Lucy ran away as fast as"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a dog.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a dog. The dog had a leash. The dog had a leash. One day, the dog was walking in the park and saw a big tree. The dog was very happy. The dog wanted to play with the dog. The dog barked and it ran around. The dog tried to be friends with the dog. The dog tried to be friends with the dog. The dog did not like the dog."
+  },
+  {
+    "category": "entity",
+    "prompt": "Bob, Mia, and Jack were playing in the park.",
+    "expected_entities": [
+      "Bob",
+      "Mia",
+      "Jack"
+    ],
+    "generated": "Bob, Mia, and Jack were playing in the park. Bob, Mia, and Jack were playing in the park. In the park, Jack, Jack, and Jack discovered a treasure. Together, they learned how to use it and had fun. Bob, Mia, and Jack were playing in the park. Bob, Mia, and Jack were playing in the park. Bob, Mia, Mia, and Jack were playing in the park. Bob, Mia, Mia,"
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Bob were best friends.",
+    "expected_entities": [],
+    "generated": "Bob and Bob were best friends. Bob and Bob were best friends. One day, Bob and Bob were best friends. They decided to try and have a race. They went to the park with lots of fun. They saw a big tree with lots of leaves and a funny hat. Bob and Bob were very happy. They went to the park with lots of leaves. They saw a big tree with lots of leaves and a funny"
+  },
+  {
+    "category": "entity",
+    "prompt": "Bob, Mia, and Tom were playing in the park.",
+    "expected_entities": [
+      "Bob",
+      "Mia",
+      "Tom"
+    ],
+    "generated": "Bob, Mia, and Tom were playing in the park. Bob, Mia, and Tom were playing in the park. In the park, Bob, Mia, and Tom discovered a kite. Together, they learned how to use it and had fun. Bob, Mia, and Tom were playing in the park. Bob, Mia, Mia, and Tom were playing in the park. Bob, Mia, Mia, and Tom were playing in the park. race, Mia, and"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a bird wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a bird wanted to Long a bird was very hungry, so he flapped his wings and tried to reach the beef. But Gong was still too fast and he was beginning to get ready for the beef. Suddenly, he heard a loud noise and he stopped and looked out the window again. The bird said \"Mong a little girl! You need to stay here and be bigg"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Tom lost a treasure, then",
+    "expected_entities": [],
+    "generated": "Tom lost a treasure, then Sam found a treasure, then he had a treasure, then he had a treasure, then he had a treasure, so he took it off with him and went on adventures with him and went on adventures with him and went on adventures with him and went on adventures with him and went on adventures with him and went on adventures with him and went on adventures with him and went on adventures"
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice and Mia went to the school to find a map.",
+    "expected_entities": [
+      "Alice",
+      "Mia",
+      "Ava"
+    ],
+    "generated": "Alice and Mia went to the school to find a map. Alice and Mia went to the school to find a map. They wanted to find a map to find a map. At the school, Alice saw a map. She thought it looked nice and cool. She wanted to try it too. Alice and Mia looked at the map and saw a map. They thought it looked fun. They decided to try"
+  },
+  {
+    "category": "structure",
+    "prompt": "Lucy and Lucy were best friends.",
+    "expected_entities": [],
+    "generated": "Lucy and Lucy were best friends. Lucy and Lucy were best friends. Lucy and Lucy were best friends. Lucy and Lucy were best friends. Lucy and Lucy were best friends. Tim and Lucy were best friends. Lucy and Lucy were best friends. Lily and Lucy were best friends. Lucy and Lucy were best friends. They Lucy and"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a dog who The dog was a dog who loved to play in the garden. One day, the dog saw a big sack on the ground. The dog wanted to play with the flower, but the flower was too high for him. The dog started to fight over the stone, but the flower fell down. The dog was sad and didn't know what to do. A kind farmer saw the"
+  },
+  {
+    "category": "structure",
+    "prompt": "Olivia and Mia were best friends.",
+    "expected_entities": [],
+    "generated": "Olivia and Mia were best friends. Olivia and Mia were best friends. Olivia and Mia were best friends. Olivia and Mia were best friends. Olivia and Mia were best friends. Olivia and Mia were best friends. Olivia and Mia were best friends. Olivia and Mia were best friends. Olivi"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Olivia was late for school because she heard a strange noise, so",
+    "expected_entities": [],
+    "generated": "Olivia was late for school because she heard a strange noise, so Olivia was late for school because she heard the noise outside her window. Olivia was scared and she had never heard the noise outside her window. She started to sing, but the noise was too loud for her to get out. She felt so scared that she started to cry. Then she heard a loud noise outside her"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the forest.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the forest. It was a cold day in the forest. When when when when when when there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Jack lost a key, then",
+    "expected_entities": [],
+    "generated": "Jack lost a key, then Jack was playing in the park. Jack found a key and he was so happy and he wanted to share his key. Jack said to his friend, \"Do you want to share my key with me?\" Jack was happy to have to share his key with Tom, so they started to fight. Jack was sad but then he saw a key and he said, \"Let's share our key together!\" Jack thought about"
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma and Jack went to the school to find a map.",
+    "expected_entities": [
+      "Emma",
+      "Jack"
+    ],
+    "generated": "Emma and Jack went to the school to find a map. Emma and Jack went to the school to find a map. At the school, Emma found a map at the school. Emma said, \"Let's go and look at this!\" Jack said, \"OK!\" They ran to the school and found a map at the school. Emma said, \"Let's show our map. It looks fun.\" Jack said, \"OK!\" They took a map and found a"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small forest, a rabbit discovered a map that",
+    "expected_entities": [],
+    "generated": "In a small forest, a rabbit discovered a map that Billy had discovered a map that taught him to be braver. The map had told him to be braver and not be too harsh for him. Billy was scared and wanted to try and try and try to try and try and try to try to learn more. But the map was too harsh for him to be braver. One day, the rabbit found"
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan and Liam went to the park to find a book.",
+    "expected_entities": [
+      "Ethan",
+      "Liam"
+    ],
+    "generated": "Ethan and Liam went to the park to find a book. Ethan and Liam went to the park to find a book. Ethan and Liam liked to look at the book and learn their names and write and write and write and write and write and write and write and write and write and write and write and write and write and write and write and write and write and write"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the park, and",
+    "expected_entities": [],
+    "generated": "A storm started in the park, and Suddenly, there lived a storm started in the park, and in no time was ever seen in the park. The storm started to spoil the birds from the park, and it made him feel very cold inside. The storm started to increase until the storm began to get dark. The sky was filled with rain and the rain got bigger and bigger. The storm started to fill up the park"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It It It was a cold day in the park. It It was a cold day in the park. It It It was a cold day in the park. It It"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Jack told Liam about a treasure.",
+    "expected_entities": [
+      "Jack",
+      "Liam"
+    ],
+    "generated": "At school, Jack told Liam about a treasure. At school, Jack told Liam about a treasure. Liam looked at Jack and Liam how to use it. Then, Jack and Liam went to the school together. At school, Jack told Liam about a treasure. At school, Jack told Liam about a treasure. Liam was surprised when Jack and Liam how to use it. Then, Jack and Li"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small park, a dog discovered a box that",
+    "expected_entities": [],
+    "generated": "In a small park, a dog discovered a box that Ankon on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on"
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma, Mia, and Emma were playing in the forest.",
+    "expected_entities": [
+      "Emma",
+      "Mia"
+    ],
+    "generated": "Emma, Mia, and Emma were playing in the forest. Emma, Mia, and Emma were playing in the forest. While in the forest, Emma found a key. Emma and Emma joined to explore and learn together. Emma, Mia, and Emma were playing in the forest. After in the forest, Emma found a key. Emma and Emma joined to explore and learn together. Emma, Mia, and Emma were playing in the"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a rabbit wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a rabbit wanted to Rong a rabbit wanted to bring a carrot in the forest. He stopped and stopped and walked to the forest. He saw a big pile of carrots and he picked them up. The carrots were big and Pong was excited. He opened the carrot and started to eat them. Long one noticed a rabbit he was looking at and he picked them up. The carrots were"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Noah found the treasure,",
+    "expected_entities": [],
+    "generated": "After Noah found the treasure, After Noah found the treasure. Noah found the treasure, but Noah found it. Noah showed it to Noah than they found found and ate it. Noah got scared and ate it. Noah ate the treasure, but Noah found the treasure. Noah had found the treasure, but Noah gave it to Noah as a treasure. Noah felt bad and said"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a fox. It was a fox. One day, it was a fox. He was so excited. He wanted to go on an adventure. So he ran on an adventure. He ran and jumped in the forest and got ready for his adventure. The fox ran until he got to the forest. He could not believe it. He was so excited! He wanted to go on an adventure. He ran and jumped"
+  },
+  {
+    "category": "entity",
+    "prompt": "Liam and Noah went to the forest to find a box.",
+    "expected_entities": [
+      "Liam",
+      "Noah"
+    ],
+    "generated": "Liam and Noah went to the forest to find a box. Liam and Noah went to the forest to find a box. Liam and Noah found a box in the forest. They decided to go and look at it. But they found nothing. Then they saw something. It was not good. It was not good. It was not good. It was bad. Liam and Noah decided to go and"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Mia was late for school because he forgot his homework, so",
+    "expected_entities": [],
+    "generated": "Mia was late for school because he forgot his homework, so Mia was late for school and she forgot the homework, so she ran away without her teacher. Mia cried and cried until she found her and ran out of her room. Mia was so sad and she stopped crying and cried. Mia's teacher saw what had happened and she helped Mia find her homework. She hugged her and told her to never go"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ava was late for school because she heard a strange noise, so",
+    "expected_entities": [],
+    "generated": "Ava was late for school because she heard a strange noise, so Ava was late for school because she heard a strange noise, so she stopped and listened. It was so loud that she quickly ran into the classroom and saw a funny sound coming from the classroom. Ava was scared, but she was also curious. When she got close, she saw that the noise was coming from a big machine."
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bear found a mysterious box and",
+    "expected_entities": [],
+    "generated": "A curious bear found a mysterious box and Inside the bear found a mysterious box in the woods. He was very excited and wanted to see what was inside. He opened the box and saw a mysterious box inside! The bear was so excited and he quickly opened the box and saw a mysterious box. Inside the box, there was a mysterious box and lots of colorful things! The bear was so excited and he quickly opened"
+  },
+  {
+    "category": "entity",
+    "prompt": "Ava helped Jack after they lost a book.",
+    "expected_entities": [
+      "Ava",
+      "Jack"
+    ],
+    "generated": "Ava helped Jack after they lost a book. Ava helped Jack after they lost a book. Ava asked Jack to help her find it. Jack was happy to help, so he and he ran to the door and they found it. Ava trusted Jack to help her find it. They both followed the map and they found it under a tree. Jack was happy to help his friend and"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bird who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bird who The bird was a bird who loved to fly around the forest. One day, while playing, he saw a big rocket on the ground. The bird was so happy that he flew as fast as he could to the forest. As he flew higher and higher, he saw a big rock! The bird was so happy that he flew faster and faster! The bird was so"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the park, and",
+    "expected_entities": [],
+    "generated": "A storm started in the park, and A storm started to fly in the park, and A storm started to fly in the park, and A storm started in the park, and A storm started in the park, and A storm started in the park, and A storm started in the park, and A storm started in the park, and a After In the"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Alice found the ball,",
+    "expected_entities": [],
+    "generated": "After Alice found the ball, Athan, who was very happy. They decided to go for a walk in the park, and Athan, \"Where is the mill?\" Alice asked. Finally, Alice found the ball and they both smiled. They went to the park and found a ball. \"Let's play with it together,\" Athan, then Athan, pointing at the ball and laughing. Athan, she handed the"
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia helped Noah after they lost a treasure.",
+    "expected_entities": [
+      "Mia",
+      "Noah"
+    ],
+    "generated": "Mia helped Noah after they lost a treasure. Mia helped Noah after they lost a treasure. Mia was excited to help Noah find a treasure. Mia and Noah went to the park to help Noah find a treasure. Mia looked around and found a treasure under a tree. She was so happy to see it and hugged it tight. Mia smiled and gave the treasure a treasure as a treasure."
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Mia told Jack about a map.",
+    "expected_entities": [
+      "Mia",
+      "Jack"
+    ],
+    "generated": "At school, Mia told Jack about a map. At school, Mia told Jack about a map. Mia showed Jack how to use it. Then, Mia and Jack went to the school together. At school, Mia told Jack about a map. At school, Mia handed Jack how to use it. Then, Mia and Jack went to the school together. At school, Mia told Jack about a map. At school, Mia"
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia helped Noah after they lost a book.",
+    "expected_entities": [
+      "Mia",
+      "Noah",
+      "Tom"
+    ],
+    "generated": "Mia helped Noah after they lost a book. Mia helped Noah after they lost a book. Grace, Grace, Grace, Grace, Grace, Grace, Grace, Grace, Grace, Grace, Grace, Grace, Grace, Grace, and Mia were curious about a book in the garden. After some adventures, they all became friends. Mia helped Noah after they lost a book."
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bear.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bear. Once upon a time, there was a bear. He lived in a big forest. One day, he was walking in the forest and saw a little bird. He was so happy to see the little bird. He wanted to meet the little bird. He asked the little bird, \"Can I play with you?\" The little bird said, \"Yes, but the little bird is not so nice. But you must"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small school, a dog discovered a ball that",
+    "expected_entities": [],
+    "generated": "In a small school, a dog discovered a ball that Tim had discovered a ball with shiny pedals. He was so excited to try and get a shiny new toy. But when he got to the park, he noticed a ball that looked very dull and disgusting. He didn't know what it would be like to be like to play with the ball but he was too curious to have a new toy. He decided to"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the school, and",
+    "expected_entities": [],
+    "generated": "A storm started in the school, and Billy and Billy were playing in the school, and when suddenly there was a big storm coming. The storm had to go away and Billy and Billy were sad because all the rain was gone. Billy and Billy were sad because all the rain was gone. But then they saw a little bird who was starting to come back. The storm was not perfect for Billy and Billy were sad"
+  },
+  {
+    "category": "entity",
+    "prompt": "Jack helped Tom after they lost a book.",
+    "expected_entities": [
+      "Jack",
+      "Tom"
+    ],
+    "generated": "Jack helped Tom after they lost a book. Jack helped Tom after they lost a book. Jack was excited to help Tom find a book. Jack was excited to help Tom find a book. Jack and Jack were excited to help Tom find a book in the book. They searched and searched until finally, they found a book in the book. They were so excited to help Tom find a book in the book. They searched and"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a bear wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a bear wanted to Long a bear was a bear called Mong a bear called Mong a bear called Mong a bear called Mong a bear called Mong a bear called Mong a bear called Mong a bear called Mong a bear called Mong a bear. Mong a bear called Mong a bear called Mong a bear called Mong"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ava was late for school because she heard a strange noise, so",
+    "expected_entities": [],
+    "generated": "Ava was late for school because she heard a strange noise, so Ava was late for school because she was almost too busy for school and she needed help. When Ava woke up, her mom said she had to go to school and learn her things. Ava was so excited, she ran to school and she started to work really hard. She wanted to learn she didn't want to"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": [],
+    "generated": "A storm started in the beach, and The sun started in the beach, and The sun started in the beach, and The sun started in the beach, and The sun started in the beach, and The sun started in the beach, and The sun started in the beach, and A storm started in the beach, and A storm started"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Bob told Olivia about a key.",
+    "expected_entities": [
+      "Bob",
+      "Olivia"
+    ],
+    "generated": "At school, Bob told Olivia about a key. At school, Bob told Olivia about a key. Olivia looked at Bob as they found a key at the school. Together, they had fun. At school, Bob told Olivia about a key. In the school, Bob told Olivia about a key. Olivia about a key. Olivia looked at Bob as they found a"
+  },
+  {
+    "category": "structure",
+    "prompt": "Ethan and Lucy were best friends.",
+    "expected_entities": [],
+    "generated": "Ethan and Lucy were best friends. Ethan and Lucy were best friends. They were all very excited to explore the world. Ethan and Lucy were best friends. Ethan and Lucy were best friends. Ethan and Lucy were best friends. Ethan and Lucy were best friends. Ethan and Lucy were best friends. they two best friends."
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bear found a mysterious map and",
+    "expected_entities": [],
+    "generated": "A curious bear found a mysterious map and The bear found a mysterious map in the forest. The bear wanted to learn more about the world and learn more about it. But, when he tried to learn more, he saw a mysterious map and let it go on a journey. The bear was so excited and wanted to learn more. But the curious bear was so excited and wanted to learn more. But the curious bear was"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Emma found the treasure,",
+    "expected_entities": [],
+    "generated": "After Emma found the treasure, Lily found the treasure, After Emma found the treasure, After Emma found the treasure, After Emma found the treasure, After Emma found the treasure, After Emma found the treasure, After Emma found the treasure, After Emma found the treasure, After Emma found"
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice, Tom, and Alice were playing in the school.",
+    "expected_entities": [
+      "Alice",
+      "Tom"
+    ],
+    "generated": "Alice, Tom, and Alice were playing in the school. Alice, Tom, and Alice were playing in the school. At the school, Alice noticed a ball and called Alice, and Alice over. They played with it happily. Alice, Tom, and Alice were playing in the school. Alice, Tom, and Alice were playing in the school. Alice, Tom, and Alice were"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Alice found the map,",
+    "expected_entities": [],
+    "generated": "After Alice found the map, It was a toy. Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah and was very happy. Alice had found the map, but it was"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a cat wanted to Long in in in in in a garden. Long in in to look for food, the mice were not for for dinner. Long in in was not for dinner, but he was very curious. One day, Long in in in the garden, heard a little mouse named Larry who lived in the garden. Laong in was not for dinner, but he was very"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ethan was late for school because it was raining, so",
+    "expected_entities": [],
+    "generated": "Ethan was late for school because it was raining, so He was late for school because it was raining, so Gillers were very worried. He wanted to go to school, but he was too scared to go. He asked his mum to help him go to school but she said no. Ethan was so scared and he did not want to go to school. But he was too scared to go"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the forest, and",
+    "expected_entities": [],
+    "generated": "A storm started in the forest, and The sun started in the forest, and Little SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It It was a cold day in the school. It It was a cold day in the school. It It It was a"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma lost a map, then",
+    "expected_entities": [],
+    "generated": "Emma lost a map, then Emma found a map, then Emma lost a map, then Emma lost a map, then Emma lost a map, then Emma lost a map, then Emma lost a map, then Emma lost a map, then Emma lost a map, then Emma lost a map, then"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a fox. He was a fox. He was a very friendly fox. One day, he went for a walk in the forest. He saw lots of things in the forest. He saw lots of things in the forest. He saw lots of things he liked to see and see and see and see and see and see and see until he saw a big lake. He was so happy that he"
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma and Jack went to the beach to find a treasure.",
+    "expected_entities": [
+      "Emma",
+      "Jack"
+    ],
+    "generated": "Emma and Jack went to the beach to find a treasure. Emma and Jack went to the beach to find a treasure. Emma found a treasure and Jack decided to come back to the beach to find it. Emma was happy to see the treasure and she started to unpack it. She was so happy to see the treasure and she ran to the beach to find it. Emma said, \"Let's have a treasure for us!\" Jack"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Bob found the map,",
+    "expected_entities": [],
+    "generated": "After Bob found the map, Once upon a time, in a big, red hoop, he had an enormous hoop. He was so happy to have found a huge hoop, he had an enormous hoop. He was so happy to have found a huge hoop in the park. Bob played with the incredible hoop all day long. He would hold it and pretend he was a giant hoop in the park. He would"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bear.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bear. Once upon a time, there was a bear. One day, he found a yummy apple in the park. It was a yummy apple, but it was very yummy. He wanted to try it and share it. But the bear was too big and it was too big and it was too big and it was too big and it was too big and it was too big and it"
+  },
+  {
+    "category": "entity",
+    "prompt": "Olivia helped Alice after they lost a book.",
+    "expected_entities": [
+      "Olivia",
+      "Alice",
+      "Ava"
+    ],
+    "generated": "Olivia helped Alice after they lost a book. Olivia helped Alice after they lost a book. Olivia was excited to help Alice find a book in the park. After some weekending, Olivia found a book in the park. They decided to go to the park and find a book in the park. At the park, Olivia saw a book in the park. They decided"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a dog who The dog liked to play in the park with his owner, a little boy named Timmy. Timmy loved to run and play in the park with his owner, a little boy named Timmy. One day, Timmy and Timmy went to the park with his owner, a little boy named Timmy. Timmy was so happy to see his owner and give him back his toy. But then, Timmy saw"
+  },
+  {
+    "category": "entity",
+    "prompt": "Jack, Ava, and Tom were playing in the forest.",
+    "expected_entities": [
+      "Jack",
+      "Ava",
+      "Tom"
+    ],
+    "generated": "Jack, Ava, and Tom were playing in the forest. Jack, Ava, and Tom were playing in the forest. While in the forest, Jack found a coin. Jack and Tom joined to explore and learn together. Jack, Ava, and Tom were playing in the forest. Jack, Ava, and Tom were playing in the forest. Jack, Ava, and Tom were playing in the"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bear.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bear. Once upon a time, there was a bear. He lived in a forest. One day, he went for a walk in the forest. As he was walking, he heard a noise. It was a bear! The bear was very hungry and wanted to eat the noise. He went to the forest and saw a bird. The bear was very hungry and wanted to eat the noise. He came back"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a bird wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a bird wanted to Rong a bird wanted to visit Blue. He was very excited to go to the store and see Blue. He flapped his wings and flew as fast as he could. At the store, he saw a big pile of radishes. He swooped down and said to Long lo \"Mama, I want to visit Mr. Cose!\" Mong was a bit scared but"
+  },
+  {
+    "category": "entity",
+    "prompt": "Tom helped Olivia after they lost a ball.",
+    "expected_entities": [
+      "Tom",
+      "Olivia",
+      "Liam"
+    ],
+    "generated": "Tom helped Olivia after they lost a ball. Tom helped Olivia after they lost a ball. Tom helped Olivia after they lost a ball. Tom helped Olivia after they lost a ball. Tom helped Olivia after they lost a ball. Tom helped Olivia after they lost a ball. Tom helped Olivia after they"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious cat found a mysterious box and",
+    "expected_entities": [],
+    "generated": "A curious cat found a mysterious box and Once upon a time, there was a mysterious box and a kind voice came to visit her. It opened the box and things inside was a box and a big bottle and a big bottle and a big bottle and a big bottle and a big bottle and a big bottle and a big bottle and a big bottle and a big bottle and a big bottle and a"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a dog.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a dog. The dog lived in a house. One day, the dog was in a house. The house was in a house. The house was in a house. The house was in a house. The house was in a house. The house was in a house. The house was in a house. The house was in a house. The house was in a house. The house was in a house. The"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Tom found the map,",
+    "expected_entities": [],
+    "generated": "After Tom found the map, Once upon a time, there was a small book in the garden. Tom found the map, but he was happy and said it was was a funny idea. He said it was a funny idea. He said it was a funny idea. He said it was a funny idea. He said it was a funny idea. He said it was a funny idea. He said it was a funny idea."
+  },
+  {
+    "category": "entity",
+    "prompt": "Noah helped Mia after they lost a key.",
+    "expected_entities": [
+      "Noah",
+      "Mia"
+    ],
+    "generated": "Noah helped Mia after they lost a key. Noah helped Mia after they lost a key. Noah helped Mia find a key in the closet. Noah helped Mia find a key in the closet. Noah helped Mia search for a key in the closet. Noah helped Mia find a key in the closet. Noah helped Mia find a key in the closet. Noah helped Mia find the key in"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the beach.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the beach. It was a cold day in the beach. It was a cold day in the beach. It was a cold day in the beach. It was a cold day in the beach. It It was a cold day in the beach. It It It was a cold day in the beach. It It"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the forest.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the forest. It was a cold day in the forest. It was a cold day in the forest. It was a cold day in the forest. It was a cold day in the forest. It It It was a cold day in the forest. It It It was a cold day in the forest. It It was"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small beach, a dog discovered a box that",
+    "expected_entities": [],
+    "generated": "In a small beach, a dog discovered a box that Tim found a box that was full of other pieces of the sea. The fish were very excited and quickly ran to the beach, eager to explore the ocean. Tim grabbed the box and was careful to not open it. He was careful to not tear into the water and was careful not to tear into the water. He started to tear into the water but the"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because the lights went out, so",
+    "expected_entities": [],
+    "generated": "Emma was late for school because the lights went out, so Emma was late for school because the lights went out, so she decided to go for a walk. At the park, Emma saw a big red box on the ground. She picked it up and thought it would be fun to open it. Emma opened the box and found a lot of toys inside! She was so excited and started to unpack it. As she was"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Lucy lost a treasure, then",
+    "expected_entities": [],
+    "generated": "Lucy lost a treasure, then Lucy was in the park. Lucy was very happy. She had found a treasure and she was very happy. She had found a treasure and she was very happy. She ran to the park to see where she found her. She saw a treasure and she was very happy. She ran to the park with her friends. They saw a treasure and she was very happy. She ran to the park with"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small village, a fox discovered a key that",
+    "expected_entities": [],
+    "generated": "In a small village, a fox discovered a key that Inside the village, a fox discovered a key that was hidden behind a bush. The fox was very curious and wanted to know what was behind the bush, so he reached inside and opened it. Inside the village, there was a key. The fox opened the key and saw a key inside. The fox opened the door and saw a key inside. The fox was so excited"
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma helped Ava after they lost a treasure.",
+    "expected_entities": [
+      "Emma",
+      "Ava",
+      "Jack"
+    ],
+    "generated": "Emma helped Ava after they lost a treasure. Emma helped Ava after they lost a treasure. Emma said, \"Let's go get it!\" They went to the mountain and found the treasure. They were so happy. They wanted to take it with them and show it to their families. When they got to the mountain, Emma found the treasure. She was so happy and gave it to Ava after they lost"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because it was raining, so",
+    "expected_entities": [],
+    "generated": "Emma was late for school because it was raining, so a special day for school. Emma was ready to go to school and play with her friends. But when she came back, the rain was all wet. Emma was very sad. She started to cry. But then her mom came in and said, \"Don't worry, Emma. We can get the rain one day, so we can get a new one. You can find some rain clothes.\""
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the forest.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the forest. It was a cold day in the forest. On the way, there was a cold day in the forest. On the way, there was a cold day in the forest. On the way, there was a cold day in the forest. On the way, there was a cold day in the forest. On the way, there was a cold day in the forest. On the way, there was a"
+  },
+  {
+    "category": "structure",
+    "prompt": "Olivia and Olivia were best friends.",
+    "expected_entities": [],
+    "generated": "Olivia and Olivia were best friends. Olivia and Olivia were best friends. Olivia and Olivia were best friends. Olivia and Olivia were best friends. Olivia were best friends. Olivia and Olivia were best friends. Olivia were best friends. Olivia and Oli"
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Mia were best friends.",
+    "expected_entities": [],
+    "generated": "Bob and Mia were best friends. Bob and Mia were best friends. One day, Bob and Mia were best friends. They went to the park with their mum and they were best friends. On the way to the park, Bob and Mia saw a big tree in the park. Bob and Mia wanted to go on the big tree and they both wanted to go on the big tree and they both wanted to go on the"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the village, and",
+    "expected_entities": [],
+    "generated": "A storm started in the village, and The sun started in the village, and The sun started in the village, and The sun started in the village, and A storm started in the village, and A storm started in the village, and A storm started in the village, and a forest, and A storm started in the village, and"
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia and Liam went to the forest to find a box.",
+    "expected_entities": [
+      "Mia",
+      "Liam",
+      "Lucy"
+    ],
+    "generated": "Mia and Liam went to the forest to find a box. Mia and Liam went to the forest to find a box. Mia found the box and Liam started to unpack it. Mia and Liam went to the forest to find a box. Mia looked and looked, but they could not find a box. Then, they saw a box in the bushes. Mia and Liam went to the forest to find a"
+  },
+  {
+    "category": "entity",
+    "prompt": "Ava and Lucy went to the beach to find a treasure.",
+    "expected_entities": [
+      "Ava",
+      "Lucy"
+    ],
+    "generated": "Ava and Lucy went to the beach to find a treasure. Ava and Lucy went to the beach to find a treasure. Ava and Lucy found a treasure in the beach and decided to share it. Then, they heard a loud noise. Ava and Lucy jumped out and saw a big shark. Ava and Lucy got scared. They ran away and hid behind a rock. A"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious fox found a mysterious book and",
+    "expected_entities": [],
+    "generated": "A curious fox found a mysterious book and Timmy was looking for a magical book and felt very happy. He decided he would explore further and further away from his home. As he was walking further and further away from his home, he stumbled upon a mysterious book in the garden. He was so curious and he started to explore further and further away from his home. As he started to explore further and further away from"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because she heard a strange noise, so",
+    "expected_entities": [],
+    "generated": "Emma was late for school because she heard a strange noise, so She was late for school because she heard a strange noise coming from the new place in the new place. Emma was scared and started to cry. Meananananananananananananananananananananananananananananananananananananan"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious rabbit found a mysterious map and",
+    "expected_entities": [],
+    "generated": "A curious rabbit found a mysterious map and He was in a dark forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest forest"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a cat who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a cat who The cat was very lonely and wanted to be friends with the big world. So, he went to the big world. He saw lots of trees and animals and they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It It It It It was a cold day in the school. It It was a cold day in the school. It"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a cat.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a cat. Once upon a time, there was a cat. The cat was very bossy and liked to do things things. One day, the cat saw a big box in the mail. It was so big and heavy. The cat wanted to do things all the way. But the cat was too big and heavy. The cat tried and tried, but he could not open it. The cat was sad, and"
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia and Ethan went to the school to find a ball.",
+    "expected_entities": [
+      "Mia",
+      "Ethan",
+      "Olivia"
+    ],
+    "generated": "Mia and Ethan went to the school to find a ball. Mia and Ethan liked to play in the school to find a ball. At the school, Mia found a ball and Ethan liked to play with it. Mia said, \"Let's play with it now!\" Ethan liked to play with the ball for a while, but Ethan liked to play with the ball. Mia said, \"Let's play with the ball together!\" E"
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small village, a bird lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small village, a bird lived with his family. One day, he saw a little bird with his family. He was very happy and wanted to see the world and learn more about it. The little bird asked his mom, â€œCan I go to the world and learn more about the world?â€ His mom said, â€œYes, of course! But be careful and don't go too far away.â€ The little bird was very happy and"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Emma found the map,",
+    "expected_entities": [],
+    "generated": "After Emma found the map, Once upon a time there was a map, named AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
+  {
+    "category": "entity",
+    "prompt": "Bob helped Olivia after they lost a treasure.",
+    "expected_entities": [
+      "Bob",
+      "Olivia",
+      "Alice"
+    ],
+    "generated": "Bob helped Olivia after they lost a treasure. Bob helped Olivia after they lost a treasure. Bob was very happy and proud of his find. One day, Bob helped Olivia after they lost a treasure. Bob was very happy and proud of his find. At the park, they met a new toy in the park. Bob was very happy and proud of his find. They gave it to Olivia"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ethan lost a book, then",
+    "expected_entities": [],
+    "generated": "Ethan lost a book, then Ethan found a book. Ethan was so happy to see it and said to Ethan \"I have a book, then I have a hat, then I have a hat, then I have a hat, then I have a hat, then I have a hat, then I have a hat, then I have a hat, then I have a hat, then I have a hat, then I have a"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the village, and",
+    "expected_entities": [],
+    "generated": "A storm started in the village, and In the village, there was a storm started in the village, and A storm started in the village, and A storm started in the village, and A storm started in the village, and A storm started in the village, and In the village, and In the village, and In the village, and A storm started"
+  },
+  {
+    "category": "entity",
+    "prompt": "Noah, Bob, and Emma were playing in the park.",
+    "expected_entities": [
+      "Noah",
+      "Bob",
+      "Emma"
+    ],
+    "generated": "Noah, Bob, and Emma were playing in the park. Noah, Bob, and Emma were playing in the park. Noah, Bob, and Emma discovered a kite. Together, they learned how to use it and had fun. Noah, Bob, and Emma were playing in the park. Noah, Bob, and Emma were playing in the park. Noah, Bob, and Emma were playing"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Jack lost a box, then",
+    "expected_entities": [],
+    "generated": "Jack lost a box, then Jack opened the box, and he found a box in the park. He was so happy! He grabbed the box with both hands and put them in his hands. But there was no one there. Jack was so sad. He looked around, but it was no one there. Then he saw a box in the park. It was a box full of candy. Jack was so happy. He grabbed the box with"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ethan told Emma about a book.",
+    "expected_entities": [
+      "Ethan",
+      "Emma"
+    ],
+    "generated": "At school, Ethan told Emma about a book. At school, Ethan told Emma about a book. In the school, Ethan handed a book to Emma. They played until sunset. At school, Ethan told Emma about a book. At school, Ethan handed a book to Emma. They played until sunset. At school, Ethan told Emma about a book. In the school, Ethan told Emma about a book."
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small school, a bird discovered a book that",
+    "expected_entities": [],
+    "generated": "In a small school, a bird discovered a book that Tim was feeling very curious. He opened the book and saw a book on the floor. He was so excited and started to read it. But his mom said no, it was too late. The book was too late. The book was too badly and it had to go all the time. Tim was very sad, but he knew that the book was too tight. The book"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ava told Tom about a treasure.",
+    "expected_entities": [
+      "Ava",
+      "Tom",
+      "Liam"
+    ],
+    "generated": "At school, Ava told Tom about a treasure. At school, Ava told Tom about a treasure. Ava showed Tom how to use it. Then, Ava and Tom went to the school together. At school, Ava told Tom about a treasure. Ava showed Tom how to use it. Then, Ava told Tom about a treasure. In the school, Ava showed"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a fox. He lived in in in in a small cottage of the cottage was a very special place. Every day, he would go out into the cottage with his family. One day, he noticed a big, beautiful puddle. He was so excited and he wanted to jump in it. He ran over to the cottage and started to jump in it. He"
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small village, a fox lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small village, a fox lived with his family. One day, the fox was in the forest with his family. He was very happy and full of happy animals. But then, one day, the fox was in trouble for his family. He tried to escape from the forest and got stuck. He started to struggle and get stuck. He was very sad and scared for his family. He asked his parents for help, but they"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because he forgot his homework, so",
+    "expected_entities": [],
+    "generated": "Emma was late for school because he forgot his homework, so Emma was late for school because she forgot her homework, so she quickly ran to the nurse's room but the nurse's room was nowhere to be seen. Emma was very upset and started to cry. A teacher saw her crying and asked what was wrong. Emma told her about her homework, so she opened the door and saw the school room"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": [],
+    "generated": "A storm started in the beach, and The sun started in the beach, and The sun started in the beach, and The sun started in the beach, and A storm started in the beach, and A storm started in the beach, and The beach, and The sun started in the beach, and A storm started in the beach, and"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Olivia lost a ball, then",
+    "expected_entities": [],
+    "generated": "Olivia lost a ball, then Olivia found a ball in the park. Olivia saw a ball and was very happy. She ran to her mom and said, \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ethan told Emma about a treasure.",
+    "expected_entities": [
+      "Ethan",
+      "Emma"
+    ],
+    "generated": "At school, Ethan told Emma about a treasure. At school, Ethan told Emma about a treasure. Ethan was surprised when Ethan joined in. They played until sunset. At school, Ethan told Emma about a treasure. In the school, Ethan handed Emma how to use it. Then, Ethan joined in. They played until sunset. At school, Ethan told Emma about a treasure. At school, Ethan"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the village, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the village, something strange A small in the village, something strange happened. A small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small small"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the school, and",
+    "expected_entities": [],
+    "generated": "A storm started in the school, and The sun started in the school, and Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Mia lost a treasure, then",
+    "expected_entities": [],
+    "generated": "Mia lost a treasure, then Mia was in the kitchen with her mom. They had had been saving for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for days. Mia noticed a box and ran to the kitchen to get it. She opened it and saw that there was a box and went"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a cat who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a cat who He was a cat who loved to eat yummy treats. He would spend hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours hours, hours hours hours hours hours hours hours hours hours hours hours"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious dog found a mysterious ball and",
+    "expected_entities": [],
+    "generated": "A curious dog found a mysterious ball and Once upon a time, a curious dog found a mysterious ball in the garden. He was curious and wanted to see what was behind the fence. The curious dog saw a mysterious ball on the fence. The curious dog wanted to see what was behind the fence, so he reached out and touched the ball. The curious dog was surprised and he was curious about what was behind"
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small beach, a bird lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small beach, a bird lived with his family. One day, a bird lived with his family. One day, a bird wanted to go on the boat to the beach. He asked his mom, \"Mommy, can we go on the boat to the beach?\" His mom said, \"Yes, of course, I would love it!\" They went on the boat to the beach. The bird was very happy. They played in the sand and had fun."
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small beach, a fox lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small beach, a fox lived with his family. One day, a fox lived with his family. One day, a fox was in the sea and the little birds were flying close to him. The fox was sad because he missed his family and the little birds for days. The fox tried to get his family back, but he kept going late. The fox was sad and didn't like to be caught. He wanted"
+  },
+  {
+    "category": "entity",
+    "prompt": "Tom and Olivia went to the school to find a ball.",
+    "expected_entities": [
+      "Tom",
+      "Olivia"
+    ],
+    "generated": "Tom and Olivia went to the school to find a ball. Tom and Olivia went to the school to find a ball. Tom and Olivia went to the school to find a ball. Tom and Olivia went to the school to find a ball. Tom and Olivia went to the school to find a ball. Tom and Olivi"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the park, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the park, something strange A beautiful pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink pink"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bear who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bear who The bear lived in the woods in the woods in the woods in the woods and in the woods were a little boy who loved to run and play. One day, while while while while while while while while while while while while while while while while while while while while while while walking in the woods, a little boy who loved to run and play. One day,"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It It It It was a cold day in the school. It was a"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small beach, a cat discovered a book that",
+    "expected_entities": [],
+    "generated": "In a small beach, a cat discovered a book that Tim had discovered a book that was very interesting. The book was very tasty and asked Tim to take it home. Tim was glad to take his new book with him. He said to the store and he said to the store and he said to the store and he said to the store and he said to the store and he said to the store and"
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small forest, a rabbit lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small forest, a rabbit lived with his family. One day, a rabbit lived with his family. He was very happy and loved to eat cake. One day, the rabbit found a big, juicy cake. He was so happy and wanted to eat it. But he was too small and weak that he couldn't eat the cake he wanted. He tried and tried but the cake was too big and heavy for him. A little girl"
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Lucy were best friends.",
+    "expected_entities": [],
+    "generated": "Bob and Lucy were best friends. Bob and Lucy were best friends. They were always always always and help when when when when when when when when when when when when when when when when when when when when when when when when when when when time time as time there time time time time time time time time time time time time time time time time time time time time time time time time time time"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bird.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bird. The bird lived in a big tree in the forest. One day, a little bird was stuck in a tree. The bird was stuck in a tree. The bird was stuck in a tree. The bird was stuck in a tree. The bird was stuck in a tree. The bird was stuck in a tree. The bird was stuck in a tree. The bird was stuck in a tree."
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia helped Alice after they lost a treasure.",
+    "expected_entities": [
+      "Mia",
+      "Alice",
+      "Bob"
+    ],
+    "generated": "Mia helped Alice after they lost a treasure. Mia was helped Alice after they lost a treasure. Mia was a reliable friend, but she couldn't find a treasure. Mia was a reliable friend, but she couldn't find a treasure. Mia was a reliable friend, but she couldn't find a treasure. Mia was a reliable friend, but she couldn't find a treasure. Mia was a reliable friend, but she couldn't find a treasure. Mia was a reliable friend,"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because he forgot his homework, so",
+    "expected_entities": [],
+    "generated": "Emma was late for school because he forgot his homework, so Emma was late for school because he forgot his homework, so she told him he had forgotten to go school before school. Emma was feeling very sad. She had forgotten her homework, but she knew that she had forgotten her homework, so she went to the store and asked her if she had forgotten her homework, so she did. Emma was"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Lucy found the map,",
+    "expected_entities": [],
+    "generated": "After Lucy found the map, In the library, After Lucy found the map, After Lucy found the map, After Lucy found the map, After Lucy found the map, After Lucy found the map, At Lucy found the map, After Lucy found the map, After Lucy found the map,"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Olivia told Bob about a treasure.",
+    "expected_entities": [
+      "Olivia",
+      "Bob"
+    ],
+    "generated": "At school, Olivia told Bob about a treasure. At school, Olivia told Bob about a treasure. In the school, Olivia handed a treasure to Bob. They played until sunset. At school, Olivia told Bob about a treasure. In the school, Olivia handed a treasure to Bob. They played until sunset. At school, Olivia told Bob about a treasure. At school, Oli"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ava told Noah about a treasure.",
+    "expected_entities": [
+      "Ava",
+      "Noah",
+      "Bob"
+    ],
+    "generated": "At school, Ava told Noah about a treasure. At school, Ava told Noah about a treasure. Ava and Noah discovered a treasure in the school. They decided to explore together. At school, Ava told Noah about a treasure. At school, Ava told Noah about a treasure. Ava showed Noah about a treasure. They decided to explore together."
+  },
+  {
+    "category": "coherence",
+    "prompt": "Noah lost a ball, then",
+    "expected_entities": [],
+    "generated": "Noah lost a ball, then Noah lost a ball in the park. Noah was scared and cried for help. Noah called Noah to Noah to Noah and search for a ball in the park. Noah was scared again and cried for help. Noah had an idea. He decided to help Noah find a ball in the park. Noah was scared again and cried for help. No"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Olivia found the treasure,",
+    "expected_entities": [],
+    "generated": "After Olivia found the treasure, Once upon a time, there was a treasure. In the treasure, she found a treasure in the garden. She was so excited to see what was inside. But then, she heard a noise and heard a voice in her garden. It was a big, scary fish. The fish said, \"Let me help you find the treasure!\" Olivia and the shark agreed. So they went to the treasure and"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small beach, a bear discovered a map that",
+    "expected_entities": [],
+    "generated": "In a small beach, a bear discovered a map that Jack had discovered a map that was in the sand. He decided to explore it, but he didn't know what he was and thought it looked scary. Jack started to search for the map, but he couldn't find it. Suddenly, Jack heard a voice calling his name. It was his friend, a little rabbit called Paul. Paul said, â€œLet me see what I foun"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small forest, a dog discovered a treasure that",
+    "expected_entities": [],
+    "generated": "In a small forest, a dog discovered a treasure that Timmy found a treasure that he found. Timmy was curious and wanted to explore the treasure too. He ran to the treasure and found a treasure that he found. He was so happy and started to eat it. But then, a small boy discovered a treasure that he found. He was so happy and started to eat the treasure too. But then, a small boy discovered a"
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice and Jack went to the park to find a ball.",
+    "expected_entities": [
+      "Alice",
+      "Jack"
+    ],
+    "generated": "Alice and Jack went to the park to find a ball. Alice and Jack went to the park to find a ball. Alice was very happy and she wanted to try to try to grab the ball but Jack said \"No, I don't want to get the ball too high!\" Alice was sad and she started to cry. Then, Jack had an idea. He had an idea. He had an idea. He had an idea. He"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the village, and",
+    "expected_entities": [],
+    "generated": "A storm started in the village, and Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little Little"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Olivia lost a key, then",
+    "expected_entities": [],
+    "generated": "Olivia lost a key, then Olivia found a key, then in the park. Olivia was surprised when Olivia shared a key, then in the park. Olivia was surprised when Olivia shared a key, then in the park. They laughed and played with it. Olivia found a key at the park and was surprised when Olivia shared a key, then in the"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Emma told Ava about a box.",
+    "expected_entities": [
+      "Emma",
+      "Ava"
+    ],
+    "generated": "At school, Emma told Ava about a box. At school, Emma told Ava about a box. Ava looked at Emma as they found a box at the school. Together, they had fun. At school, Emma told Ava about a box. Ava was surprised when Emma shared a box. They laughed and played with it. At school, Emma told Ava about a box. In"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Lucy was late for school because she heard a strange noise, so",
+    "expected_entities": [],
+    "generated": "Lucy was late for school because she heard a strange noise, so She was late for school because she heard a strange noise coming from the kitchen. She walked up to the kitchen and saw a stair coming from the kitchen. She quickly ran up to the bathroom and saw that it was a strange noise coming from the kitchen. She was scared and wanted to go out and explore the new room. Suddenly, there was"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Liam told Jack about a treasure.",
+    "expected_entities": [
+      "Liam",
+      "Jack",
+      "Bob"
+    ],
+    "generated": "At school, Liam told Jack about a treasure. At school, Liam told Jack about a treasure. Liam showed Jack how to use it. Then, Liam and Jack went to the school together. At school, Liam told Jack about a treasure. At school, Liam showed Jack how to use it. Then, Liam and Jack went to the school together. At school, Liam told Jack about a"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It It was a cold day in the park. It It was a cold day in the park. On It It was"
+  },
+  {
+    "category": "entity",
+    "prompt": "Liam helped Lucy after they lost a map.",
+    "expected_entities": [
+      "Liam",
+      "Lucy",
+      "Ethan"
+    ],
+    "generated": "Liam helped Lucy after they lost a map. Liam helped Lucy after they lost a map. Liam helped Lucy after they lost a map. Liam helped Lucy after they lost a map. Liam helped Lucy after they lost a map. Liam helped Lucy after they lost a map. Liam helped Lucy after they lost"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the forest, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the forest, something strange Chlulululululululululululululululululululululululululululululululululululululululululululululululululululululululululululululululululululu"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Bob found the map,",
+    "expected_entities": [],
+    "generated": "After Bob found the map, Once upon a time, there was a little boy named Tim. Tim found the map, but he couldn't find it. Bob was sad and didn't know what to do. Then, Bob had an idea. He decided to help his friend. Tim found the map, but he couldn't find it. Bob was happy and didn't know what to do. Bob gave Bob a big hug and they played with the"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a cat wanted to Long a cat named Pin. Long a cat named Pin. Long a cat named Pin. Long a cat named Pin was very happy to hear Mong a cat named Pin. Long a cat named Pin loved Long a cat named Pin. Long a cat named Pin loved Long a cat named P"
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small beach, a dog lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small beach, a dog lived with his family. One day, the dog lived with his family. One day, the dog was very sad and it started to rain. The dog was very sad and it started to rain. The family took him to the store to buy some water. The mom told him to stay in the house until the rain stopped. The dog was very happy and it started to rain. The family went"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ava lost a box, then",
+    "expected_entities": [],
+    "generated": "Ava lost a box, then Ava found a box, then Ava There, then Ava hole, then Ava lost a box, then Ava lost a box, then Ava lost a box, then Ava lost a box, then Ava lost a box, then A"
+  },
+  {
+    "category": "structure",
+    "prompt": "Emma and Emma were best friends.",
+    "expected_entities": [],
+    "generated": "Emma and Emma were best friends. Emma and Emma were best friends. One day, Emma and Emma were best friends. They decided to celebrate a special day. They asked all the friends if they could do anything in the world. Emma and Emma decided to celebrate a special day. They were so excited! When they arrived at the place, they were so excited! They thanked all the friends and they all said yes! Emma and Emma had"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the forest.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the forest. It was a cold day in the forest. It was a cold day in the forest. It was a cold day in the forest. It It was a cold day in the forest. It It was a cold day in the forest. It It It It It was a cold day in the forest. It"
+  },
+  {
+    "category": "entity",
+    "prompt": "Bob and Lucy went to the school to find a ball.",
+    "expected_entities": [
+      "Bob",
+      "Lucy",
+      "Emma"
+    ],
+    "generated": "Bob and Lucy went to the school to find a ball. Bob and Lucy went to the school to find a ball. Bob and Lucy went to the school to find a ball. Bob and Lucy went to the school to find a ball. Bob and Lucy went to the school to find a ball. in Bob and Lucy went to the school to find a ball. Bob"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the school, and",
+    "expected_entities": [],
+    "generated": "A storm started in the school, and A lady and a woman were in the school, and they were in the school, and they were in the school, and they were in the school, and they were in the school, and they were in the school, and they were in the school, and they were in the school, and they were in the school, and they were in the school, and they were in the school, and"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a dog who The SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It It was a cold day in the park. It It It was a cold day in the park. It It It was a cold day in the park."
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a cat who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a cat who Timmy who loved to play in the garden. One day, he saw a big pile of leaves and he wanted to play in it. Timmy started to load his pile of leaves and he had no idea. He was so happy and started to build a big pile of leaves anymore. But then, Timmy noticed that the pile of leaves were too big and he was very sad."
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small village, a bear discovered a ball that",
+    "expected_entities": [],
+    "generated": "In a small village, a bear discovered a ball that He was called Basking king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king king"
+  },
+  {
+    "category": "structure",
+    "prompt": "Liam and Lucy were best friends.",
+    "expected_entities": [],
+    "generated": "Liam and Lucy were best friends. Liam and Lucy were best friends. Liam and Lucy were best friends. Liam and Lucy were best friends. Liam and Lucy were best friends. Tim and Lucy were best friends. Liam and Lucy were best friends. friends. Aam and Lucy were best"
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma and Bob went to the village to find a ball.",
+    "expected_entities": [
+      "Emma",
+      "Bob"
+    ],
+    "generated": "Emma and Bob went to the village to find a ball. Emma and Bob went to the village to find a ball. They searched high and low, but they couldn't find a ball. Finally, they found a ball at the end of the village. Emma and Bob went to the village to find a ball. They looked high and low, but they couldn't find a ball. The ball was so big and they started to cry. Emma"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a cat.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a cat. The cat lived in a small house. One day, the cat went out into the house. It was very dark and the cat was cold. The cat started to shiver and was cold. The cat got very dark and the cat got very cold. The cat got very cold and the cat got very cold. The cat had no place to go and play outside. The cat was"
+  },
+  {
+    "category": "structure",
+    "prompt": "Mia and Emma were best friends.",
+    "expected_entities": [],
+    "generated": "Mia and Emma were best friends. Mia and Emma were best friends. They loved to play in the park every day. One day, Mia and Emma were best friends. They loved to play in the park every day. Mia and Emma were best friends. They loved to play in the park every day. Mia and Emma were best friends. They loved to play in the park every day. One day, Mia and Emma were best friends. They"
+  },
+  {
+    "category": "entity",
+    "prompt": "Tom, Noah, and Tom were playing in the forest.",
+    "expected_entities": [
+      "Tom",
+      "Noah"
+    ],
+    "generated": "Tom, Noah, and Tom were playing in the forest. Tom, Noah, and Tom were playing in the forest. Tom, Noah, and Tom discovered a key in the forest. Together, they learned how to use it and had fun. Tom, Noah, and Tom were playing in the forest. Tom, Noah, and Tom were playing in the forest. Tom, Noah, and"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because she heard a strange noise, so",
+    "expected_entities": [],
+    "generated": "Emma was late for school because she heard a strange noise, so Her teacher had been late for school because she was feeling very tired. At school, Emma saw a big tank and wanted to go swim in it. But her mummy said no and told she was too late for school because she had no one to sit on. Emma was sad and started to cry. But then her mummy said it was okay and told"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small school, a bear discovered a map that",
+    "expected_entities": [],
+    "generated": "In a small school, a bear discovered a map that He called his GrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrandGrand"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Bob told Noah about a key.",
+    "expected_entities": [
+      "Bob",
+      "Noah",
+      "Emma"
+    ],
+    "generated": "At school, Bob told Noah about a key. At school, Bob told Noah about a key. Noah looked at Bob as they found a key at the school. Together, they had fun. At school, Bob told Noah about a key. In the school, Bob told Noah about a key. In the school, Bob handed Noah about a key. Noah found a key at the school. Together, they had"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a fox. He liked to run and play in the forest. One day, he saw a big, juicy acorn in the forest. It was so big and juicy and he wanted to eat it. But the little fox didn't want to eat it. The little fox was very sad and he wanted to eat the big, juicy acorn. But he had an idea. He decided to make a plan."
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Emma told Lucy about a book.",
+    "expected_entities": [
+      "Emma",
+      "Lucy"
+    ],
+    "generated": "At school, Emma told Lucy about a book. At school, Emma told Lucy about a book. In the school, Emma handed a book to Lucy. They played until sunset. At school, Emma told Lucy about a book. In the school, Emma handed a book to Lucy. They played until sunset. At school, Emma told Lucy about a book. At school, Emma told Lucy about a book. At school, Emma told"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Mia found the book,",
+    "expected_entities": [],
+    "generated": "After Mia found the book, She was very happy. She had found the book, Cow. Mia had found the book, Cow. Mia loved it and wanted to try it. Mia found the book, Cow. She was so happy. She thanked her kind friend friend friend friend friend friend friend friend friend friend friend friend friend friend friend friend and friend friend friend and friend friend friend and friend friend and and"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a fox. He was a fox. He was a fox and the rabbit he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It It It was a cold day in the school. It was a cold day in the school. It It It"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the beach.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the beach. It was a cold day in the beach. It was a cold day in the beach. It was a cold day in the beach. It was a cold day in the beach. It was a cold day in the beach. Once It was a cold day in the beach. It It was"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious cat found a mysterious treasure and",
+    "expected_entities": [],
+    "generated": "A curious cat found a mysterious treasure and The cat found a mysterious treasure and she wanted to try it. So, she opened the treasure and saw a mysterious treasure in the garden. She was so excited and started to run away. But then, she heard a noise in the garden. She reached in and and saw a mysterious treasure and he was so curious that she started to run away. But then, she heard a noise"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bird who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bird who The bird was very very hungry and wanted to eat some some some some some of the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Mia lost a ball, then",
+    "expected_entities": [],
+    "generated": "Mia lost a ball, then Mia was under under under under under under under under under under under under under under under under the under under the under the under the under the under the alpillow. Mia and Mia loved to go to the apple and have some sweet lunch. They would always have a little bread, but no one did. One day, when they were under under under the under the under the under"
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia helped Jack after they lost a book.",
+    "expected_entities": [
+      "Mia",
+      "Jack",
+      "Noah"
+    ],
+    "generated": "Mia helped Jack after they lost a book. Mia helped Jack after they lost a book. They found a book in the park and they were very happy. They decided to help Jack after they lost a book. Mia helped Jack by picking a book. Mia helped Jack by picking a book. Mia helped Jack by picking a book. Mia helped Jack by picking a book. Mia helped Jack by picking a book. Mia helped Jack by"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ethan lost a ball, then",
+    "expected_entities": [],
+    "generated": "Ethan lost a ball, then Ethan found a ball in the garden. Ethan was surprised when Ethan found her ball. Ethan was so happy and ran to Ethan and said to Ethan that \"I found it first!\" Ethan was so happy and ran to Ethan and said to Ethan \"Let's play with the ball!\" Ethan agreed and they started to play with the ball. Ethan"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It It was a cold day in the school. It It was a cold day in the school. It It It was a cold day in the school. It It It was a cold day in the school."
+  },
+  {
+    "category": "coherence",
+    "prompt": "Bob lost a map, then",
+    "expected_entities": [],
+    "generated": "Bob lost a map, then Bob found a map, then he found a map. Bob was very happy and started to run around with his map. He had so much fun playing with his map, then he got the map. Bob was very happy and started to run around with his map. After a while, Bob got the map. He was very happy and started to run around with"
+  },
+  {
+    "category": "structure",
+    "prompt": "Lucy and Alice were best friends.",
+    "expected_entities": [],
+    "generated": "Lucy and Alice were best friends. Lucy and Alice were best friends. They loved to play in the park every day. Lucy and Alice were best friends. One day, Lucy and Alice went to the park every day. Lucy visited the park every day. Lucy was so happy to be there. But then Lucy saw something shiny in the bushes. Lucy recognized it and was so excited she started to take it away. Lucy said to Tom,"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Lucy lost a box, then",
+    "expected_entities": [],
+    "generated": "Lucy lost a box, then Lucy went to the store to buy something something with it. Lucy was a box with a big bow on it. Lucy was a box with a small bow on it. Lucy was a box with a small bow on it. She was a box with a small bow on it. She was a box with a small bow on it. She was a box with a small bow on it. She"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a cat wanted to Mommy and Daddy wanted to help Mommy and Daddy pick some vegetables. They had a big bag of vegetables and Long all gathered some vegetables in the bowl. They had a big bag of vegetables and Long all gathered some vegetables and they put them in the bowl. They had a big bag of vegetables and Long all ate the vegetables and then they put them"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Bob was late for school because it was raining, so",
+    "expected_entities": [],
+    "generated": "Bob was late for school because it was raining, so Bob was late for school because it was raining, so he had to go to the hospital, but he was scared and started to cry. His mom came back to the hospital, but it was too late. Bob had to go to the hospital and he couldn't go to the hospital. He was so sad and started to cry. His mom had to go to"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the park, and",
+    "expected_entities": [],
+    "generated": "A storm started in the park, and A storm started in the park, and A storm started in the park, and A storm started in the park, and A storm started in the park, and A storm started in the park, and A storm started in the park, and A storm started in the park, and a day, and A storm started in"
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice helped Olivia after they lost a book.",
+    "expected_entities": [
+      "Alice",
+      "Olivia"
+    ],
+    "generated": "Alice helped Olivia after they lost a book. Alice asked Olivia after they lost a book. Alice asked Olivia after they lost a book. Alice helped Olivia after they lost a book. Alice helped Olivia after they lost a book. Alice helped Olivia after they lost a book. Alice helped Olivia after they lost"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bear who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bear who The bear wanted to go on an adventure in the woods. He looked around but he couldn't find it. He was so happy and started to cry. Suddenly, a big bear appeared and said he could go on an adventure in the woods. The bear was so happy and started to run away. But then a big bear appeared and said he could go on an adventure in"
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan, Mia, and Ava were playing in the village.",
+    "expected_entities": [
+      "Ethan",
+      "Mia",
+      "Ava"
+    ],
+    "generated": "Ethan, Mia, and Ava were playing in the village. Ethan, Mia, and Ava were playing in the village. In the village, Ethan, Mia, and Ava found a paintbrush in the village. They decided to share it. Ethan, Mia, and Ava were playing in the village. At the village, Ethan, Mia, and Ava were playing"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bear.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bear. He was a bear. He was a bear. One day, he went out out out out out out out out out out out out out and out out out out out to find something a yummy snack. He found a big bowl of yummy treats! He was so happy and full and happy. But then, something strange happened. The bear saw a big bowl of yummy treats!"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Noah found the box,",
+    "expected_entities": [],
+    "generated": "After Noah found the box, After Noah found the box, After Noah found the box, After Noah found the box, After Noah found the box, After Noah found the box, After Noah found the box, After Noah found the box, After Noah found the box, After Noah found the box,"
+  },
+  {
+    "category": "entity",
+    "prompt": "Bob, Emma, and Bob were playing in the beach.",
+    "expected_entities": [
+      "Bob",
+      "Emma"
+    ],
+    "generated": "Bob, Emma, and Bob were playing in the beach. Bob, Emma, and Bob were playing in the beach. Bob, Emma, and Bob found a key in the beach and decided to share it. Bob gave it to Emma, then Bob joined them. Bob, Emma, and Bob were playing in the beach. Bob, Emma, and Bob were playing in the beach. Bob, Emma, and Bob were"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": [],
+    "generated": "A storm started in the beach, and One day a storm started in the beach, and it started to get wet. The rain was very hard and it started to get wet. The rain was very hard and it started to get wet. The rain started and the rain started to slide again. The rain stopped and the rain started to melt. The rain was so loud that the rain got lots of rain and it"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the beach, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the beach, something strange Suddenly, a big, round thing appeared in the sea. It was a big, round thing in the sea. The big, round thing made a big loud noise and it made the water sparkle in the sun. The big thing disturbed the beach and it made a big splash and then it made the water sparkle again. The big thing disturbed the beach and it made the water sparkle again."
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bird found a mysterious treasure and",
+    "expected_entities": [],
+    "generated": "A curious bird found a mysterious treasure and He saw a mysterious treasure and he wanted to try it. He flew to the flower and saw a shiny coin. He wanted to try it, but he couldn't reach it. The curious bird flew to the flower and saw a shiny coin. He was so happy and he started to fly away. But then he saw a mysterious treasure and he wanted to try it. He flew to"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the beach, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the beach, something strange A little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little little loved little"
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia helped Jack after they lost a book.",
+    "expected_entities": [
+      "Mia",
+      "Jack"
+    ],
+    "generated": "Mia helped Jack after they lost a book. Mia helped Jack after they lost a book. Mia helped Jack after they lost a book. Mia helped Jack after they lost a book. Mia helped Jack after they lost a book. Mia helped Jack after they lost a book. Mia helped Jack after they lost a book. Mia helped Jack after they lost a book."
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small school, a bear lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small school, a bear lived with his family. One day, the bear lived with his family. One day, the bear was very hungry and wanted to eat some some of his toys. He asked his family, \"Can I have some of your toys?\" But his family said no. They were too busy and it made the house very full. The bear was getting tired and the family was getting hungry. The bear was getting"
+  },
+  {
+    "category": "entity",
+    "prompt": "Jack, Emma, and Liam were playing in the beach.",
+    "expected_entities": [
+      "Jack",
+      "Emma",
+      "Liam"
+    ],
+    "generated": "Jack, Emma, and Liam were playing in the beach. Jack, Emma, and Liam were playing in the beach. Jack, Emma, and Liam found a kite in the beach and decided to share it. Jack gave it to Emma, then Liam joined them. Jack, Emma, and Liam were playing in the beach. Jack, Emma, and Liam were playing in the beach."
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the forest, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the forest, something strange Sam and the the the the the the the the came came came came came came came came came came came came came came came came came came came came came came came coming came came came coming coming coming coming back into the forest. The next day, something strange happened. Sam and the the the the the the the the the the the of the saw was coming"
+  },
+  {
+    "category": "structure",
+    "prompt": "Ethan and Bob were best friends.",
+    "expected_entities": [],
+    "generated": "Ethan and Bob were best friends. Ethan and Bob were best friends. Ethan and Bob were best friends. Ethan and Bob were best friends. Ethan and Bob were best friends. Ethan and Bob were best friends. Ethan and Bob were best friends. Ethan and Bob were best friends. E"
+  },
+  {
+    "category": "entity",
+    "prompt": "Olivia, Bob, and Noah were playing in the beach.",
+    "expected_entities": [
+      "Olivia",
+      "Bob",
+      "Noah"
+    ],
+    "generated": "Olivia, Bob, and Noah were playing in the beach. Olivia, Bob, and Noah were playing in the beach. Olivia, Bob, and Noah were curious about a map in the beach. After some adventures, they all became friends. Olivia, Bob, and Noah were playing in the beach. Olivia, Bob, and Noah were playing in the beach. Oli"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Liam found the map,",
+    "expected_entities": [],
+    "generated": "After Liam found the map, After Liam found the map. Noam was surprised when Liam shared it. They laughed and played with it. After Liam found the map, After Liam found the map, After Liam found the map, After Liam found the map, After Liam found the map, named Max."
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small forest, a dog discovered a treasure that",
+    "expected_entities": [],
+    "generated": "In a small forest, a dog discovered a treasure that Tom found a treasure that he wanted to keep, so he went on a journey to find the treasure. As he was walking along the way, he found a treasure that he had never seen before. It was a treasure that made him very happy. He decided to take it with him and show him the treasure. As he walked, he found a treasure that he"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a dog.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a dog. Once upon a time, there was a dog. The dog was always so happy and loved. He loved to play with his friends. One day, the dog was always so happy and loved. He loved to play with his friends. One day, the dog was always so happy and loved. He loved to play with his friends. One day, the dog was always so happy and loved. He loved"
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Tom were best friends.",
+    "expected_entities": [],
+    "generated": "Bob and Tom were best friends. Bob and Tom were best friends. One day, Bob and Tom decided to go for a walk in the park. As they were walking, they saw a big building. It looked like an expensive puzzle! Bob and Tom wanted to go on it, so they decided to go on it. They walked and walked until they saw a big building. It looked like an expensive puzzle! Bob and Tom"
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia and Lucy went to the village to find a book.",
+    "expected_entities": [
+      "Mia",
+      "Lucy"
+    ],
+    "generated": "Mia and Lucy went to the village to find a book. Mia and Lucy went to the village to find a book. They found a book and a book and a book and a book and a book and a book and a book and a book and a book and a book and a book and a book and a book and a book and a book and a book and a book and a book"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the school, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the school, something strange A little girl named AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It It It was a cold day in the park. It It was a cold day in the park. It It It was a cold day in the park."
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice helped Jack after they lost a treasure.",
+    "expected_entities": [
+      "Alice",
+      "Jack",
+      "Emma"
+    ],
+    "generated": "Alice helped Jack after they lost a treasure. Alice and Jack were playing in the park when they found a treasure. Alice said, \"Wow, that's a treasure at the park!\" Jack replied, \"Wow, that's a treasure at the park!\" Alice said, \"Wow, that's a treasure at the park!\" Jack continued to watch as Alice and Jack continued to explore the park when they found a treasure. Alice said, \"Wow, that's a treasure at the park!\" Jack replied,"
+  },
+  {
+    "category": "entity",
+    "prompt": "Ava helped Olivia after they lost a key.",
+    "expected_entities": [
+      "Ava",
+      "Olivia",
+      "Mia"
+    ],
+    "generated": "Ava helped Olivia after they lost a key. Ava were Olivia after they lost a key. Ava and Olivia searched for the key, but they couldn't find it. Ava was very happy and they decided to come back and look for it. They looked in the garden with the key to find it. Ava was so happy and they started to"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ava told Mia about a treasure.",
+    "expected_entities": [
+      "Ava",
+      "Mia",
+      "Lucy"
+    ],
+    "generated": "At school, Ava told Mia about a treasure. At school, Ava told Mia about a treasure. Mia was surprised when Ava shared a treasure. They laughed and played with it. At school, Ava told Mia about a treasure. In the school, Ava told Mia about a treasure. They laughed and played with it. At school, Ava told Mia about a treasure. They laughed"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the village, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the village, something strange Every night in the village, something strange happened. In the village, something strange happened. A big scary monster came and scared everyone. The village was very scared of the scary monster and it made its its its its its its its its its its its its its its its its its its its its its its its its its its its its its its its its its its its"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ethan lost a map, then",
+    "expected_entities": [],
+    "generated": "Ethan lost a map, then Ethan found a map. Ethan was surprised and ran to the map to show his mom. Ethan was surprised and followed the map to his mom. They opened the map and found a map at the other side. Ethan was happy and followed the map to their mom. Ethan and found a map at the other side. Ethan was happy and followed the"
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan, Bob, and Tom were playing in the park.",
+    "expected_entities": [
+      "Ethan",
+      "Bob",
+      "Tom"
+    ],
+    "generated": "Ethan, Bob, and Tom were playing in the park. Ethan, Bob, and Tom were playing in the park. Ethan, Bob, and Tom found a paintbrush in the park and decided to share it. Ethan, Bob, and Tom joined to share and learn together. Ethan, Bob, and Tom were playing in the park. Ethan, Bob, and Tom were playing in the"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ethan told Jack about a key.",
+    "expected_entities": [
+      "Ethan",
+      "Jack"
+    ],
+    "generated": "At school, Ethan told Jack about a key. At school, Ethan told Jack about a key. In the school, Ethan handed a key to Jack. They played until sunset. At school, Ethan told Jack about a key. In the school, Ethan handed a key to Jack. They played until sunset. At school, Ethan told Jack about a key. In the school, Ethan told Jack about a"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bird.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bird. Once upon a time, there was a bird. The bird loved to fly around and play with his friends. One day, the bird saw a little bird with a broken wing. The bird wanted to help the bird, so he flew up high into the sky. The bird was sad because he could not fly around and play with his friends. But then, a bird came and saw the"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Bob found the box,",
+    "expected_entities": [],
+    "generated": "After Bob found the box, Once upon a time, there was a truck. The box was big and shiny. Bob wanted to play with the box, but he was too little. He started to cry. Bob was very sad. Then he heard a loud noise. It was a loud noise coming from outside. He looked and saw a big truck driving by. Bob was so happy. He ran to the big truck and saw a big truck."
+  },
+  {
+    "category": "structure",
+    "prompt": "Tom and Jack were best friends.",
+    "expected_entities": [],
+    "generated": "Tom and Jack were best friends. Tom and Jack were best friends. One day, Tom and Jack were best friends. They went to the park and saw a big machine with a big machine. Tom and Jack wanted to see the machine better, so they ran to the machine and got ready to go. They found some things that they could use and they made a lot of noise. They were happy and they went to the"
+  },
+  {
+    "category": "structure",
+    "prompt": "Olivia and Emma were best friends.",
+    "expected_entities": [],
+    "generated": "Olivia and Emma were best friends. Olivia and Emma were best friends. Olivia and Emma were best friends. Olivia and Emma were best friends. Olivia and Emma were best friends. Olivia and Emma were best friends. Olivia and Emma were best friends. Olivia and Emma were best friends."
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bird who",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bird who The bird was a bird who loved to fly high in the sky and soar high in the sky when it was so high that it almost could see the whole world below it. The bird wanted to fly high in the sky and soar high in the sky like the world in the sky and it was so high that it almost could see the whole world"
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the forest, something strange",
+    "expected_entities": [],
+    "generated": "One quiet night in the forest, something strange Anhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the park, and",
+    "expected_entities": [],
+    "generated": "A storm started in the park, and A storm started in the park, and A storm started in the park, and A storm started in the park, and A storm started in the park, and A storm started in the park, and a a storm started in the park, and a day, and a A storm started in the park, and a day,"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small forest, a fox discovered a treasure that",
+    "expected_entities": [],
+    "generated": "In a small forest, a fox discovered a treasure that The fox found a treasure that made the day shrink. The fox was very curious and wanted to try at the treasure. He went to the forest and found the treasure that made the forest shrink. He was so happy that he started to shrink. He became so excited to see the treasure and see what was inside. But when he got to the"
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Tom were best friends.",
+    "expected_entities": [],
+    "generated": "Bob and Tom were best friends. Bob and Tom were best friends. One day, Bob and Tom were best friends. They decided to go to the park and have some fun. They decided to go to the park and have some fun. When they got to the park, they saw a big and stupid looking dog. It was a disgusting sight and they started to cry. Bob and Tom tried to run away but the dog was"
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Noah told Liam about a key.",
+    "expected_entities": [
+      "Noah",
+      "Liam",
+      "Olivia"
+    ],
+    "generated": "At school, Noah told Liam about a key. At school, Noah told Liam about a key. Noah was surprised when Noah shared a key. They laughed and played with it. At school, Noah told Liam about a key. Noah told Liam about a key. They laughed and played with it. Later, Noah told Liam about a key. Noah showed Liam how"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the beach.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the beach. It was a cold day in the beach. It was a cold day in the beach. It was a cold day in the beach. It was a cold day in the beach. It It It was a cold day in the beach. It It It was a cold day in the beach. It It was"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Jack was late for school because she heard a strange noise, so",
+    "expected_entities": [],
+    "generated": "Jack was late for school because she heard a strange noise, so He was late for school because she heard a strange noise, so she went to the classroom and saw a strange noise coming from inside. Jack was scared and started to run away but he was too late. He heard a strange noise coming from the classroom. When he arrived, he saw a strange noise coming from the classroom. It was coming from inside the"
+  },
+  {
+    "category": "entity",
+    "prompt": "Liam and Jack went to the park to find a treasure.",
+    "expected_entities": [
+      "Liam",
+      "Jack"
+    ],
+    "generated": "Liam and Jack went to the park to find a treasure. Liam and Jack went to the park to find a treasure. Liam and Jack went to the park to find a treasure. They found a great treasure and decided to share it. Liam and Jack were very happy. They played with it for a while, then they saw a big cable. It was a pile of old and they both wanted"
+  },
+  {
+    "category": "structure",
+    "prompt": "Alice and Liam were best friends.",
+    "expected_entities": [],
+    "generated": "Alice and Liam were best friends. Alice and Liam were best friends. Alice and Liam were best friends. Alice and Liam were best friends. Alice and Liam were best friends. Alice and Liam were best friends. Alice and Liam were best friends. Alice and Liam were best friends. Alice"
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice helped Noah after they lost a book.",
+    "expected_entities": [
+      "Alice",
+      "Noah",
+      "Lucy"
+    ],
+    "generated": "Alice helped Noah after they lost a book. Alice asked Noah after they lost a book. Alice helped Noah after they lost a book. Alice helped Noah after they lost a book. Alice helped Noah after they lost a book. Alice helped Noah after they lost a book. Alice helped Noah after they lost a book. Alice helped No"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": [],
+    "generated": "A storm started in the beach, and The little boy was in the beach, and The little boy was in the beach, and The little boy was in the beach, and A storm started in the beach, and The little boy was in the beach, and A storm started in the beach, and a day, and a day, a storm"
+  },
+  {
+    "category": "entity",
+    "prompt": "Ava, Emma, and Ava were playing in the village.",
+    "expected_entities": [
+      "Ava",
+      "Emma"
+    ],
+    "generated": "Ava, Emma, and Ava were playing in the village. Ava, Emma, and Ava were playing in the village. While in the village, Emma found a key. Ava and Emma joined to explore and learn together. Ava, Emma, and Ava were playing in the village. While in the village, Emma found a key. Ava and Emma joined"
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small village, a fox lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small village, a fox lived with his family. The fox was always three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ethan lost a ball, then",
+    "expected_entities": [],
+    "generated": "Ethan lost a ball, then Ethan found a ball. Ethan was curious and wanted to try it. Ethan wanted to try the ball, but Ethan said no. Ethan was sad, but Ethan wouldn't give up. Ethan was sad, but Ethan never gave up. Ethan saw a ball and decided to try it. Ethan took the ball and tried again. This time, Ethan was sad, but"
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small forest, a dog lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small forest, a dog lived with his family. One day, the dog was walking in the forest, and his family was walking in the forest, when he saw a big pile of leaves. He decided to go and have a closer look. He said, \"Let's scatter our leaves, my kite and my friends!\" The family was very happy and started to scatter their leaves on the leaves. They scattered them all over the forest and"
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small forest, a rabbit discovered a map that",
+    "expected_entities": [],
+    "generated": "In a small forest, a rabbit discovered a map that Billy found a map that made him curious. He took the map to his mom and asked, â€œWhat is this?â€ His mom said, â€œThat is a map, but you must never do that if you are not a map, you must never touch it again.\" Billy was curious and went to his mom and asked, â€œWhat is this?â€ His mom replied, â€œItâ€™s a"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the village, and",
+    "expected_entities": [],
+    "generated": "A storm started in the village, and It was a town and it was a town of town of town. Everyone was so happy and was so happy and excited to see it. But one day, a storm came and the town started to get dark. The town was so big and loud that it scared the people and it started to rain. The town was so big and loud that it scared the people and it"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Olivia found the key,",
+    "expected_entities": [],
+    "generated": "After Olivia found the key, Once upon a time, there was a key. Olivia found the key, but she was so happy! She hugged it tight and felt so so happy. She hugged it tight and felt so happy. She hugged it tight and felt so happy. She hugged it tight and felt so happy. She hugged it tight and felt so happy. She hugged it tight and felt so happy. She hugged"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It was a cold day in the park. It It was a cold day in the park. It was a cold"
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": [],
+    "generated": "It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It was a cold day in the school. It It was a cold day in the school. It It was a cold day in the school. It It It"
+  },
+  {
+    "category": "entity",
+    "prompt": "Tom, Bob, and Liam were playing in the forest.",
+    "expected_entities": [
+      "Tom",
+      "Bob",
+      "Liam"
+    ],
+    "generated": "Tom, Bob, and Liam were playing in the forest. Tom, Bob, and Liam were playing in the forest. Tom found a treasure and called Tom and Liam over. They played with it happily. Tom, Bob, and Liam were playing in the forest. While in the forest, Tom, Bob, and Liam joined to explore the forest. While in the forest, Tom, Tom, and Liam joined to explore the forest. While"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Alice found the key,",
+    "expected_entities": [],
+    "generated": "After Alice found the key, She was a key, After Alice found the key, After Alice found the key, After Alice found the key, After Alice found the key, After Alice found the key, At Sophia found the key, After Alice found the key, upon Emma found the key,"
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma and Liam went to the village to find a treasure.",
+    "expected_entities": [
+      "Emma",
+      "Liam",
+      "Ethan"
+    ],
+    "generated": "Emma and Liam went to the village to find a treasure. Emma and Liam went to the village to find a treasure. Emma found a treasure and thought it was a treasure. But then Liam found a treasure and decided to share it. Emma put the treasure in a big pile of boxes. Lily and Liam were happy and decided to share it. Emma and Liam played and laughed in the village."
+  },
+  {
+    "category": "structure",
+    "prompt": "Noah and Ava were best friends.",
+    "expected_entities": [],
+    "generated": "Noah and Ava were best friends. Noah and Ava were best friends. They did not care if Noah and Ava were asked together to share a toy. Noah and Ava were having lots of fun together. Noah and Ava were best friends. Noah and Ava were best friends. Noah and Av"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Alice lost a key, then",
+    "expected_entities": [],
+    "generated": "Alice lost a key, then John was walking along along along along along along along along along along along along along along along along along along along along along along along along along along along along along along along along along along along along along along along along along. along along along along along along along along along along along along along along along along along along along along along along along along along along along all"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a fox wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a fox wanted to Once upon a time, there was a fox who wanted to explore the world. One day, he had an idea to borrow a to make a cake. He hopped out of the kitchen and found a big bowl of flour and lots of milk, but no matter how hard he tried, he couldn't get it right. So Long Bob decided to try and get the big bowl"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a cat wanted to Long a cat asked Long a cat if he could have a snack. Long a cat was very excited and said yes. Long was happy when he saw a big bowl of soup. He decided to share the soup with his friend, a cat. Long a cat and the cat had a tasty taste. Long a cat and the cat played a"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious cat found a mysterious ball and",
+    "expected_entities": [],
+    "generated": "A curious cat found a mysterious ball and On a brave cat found a mysterious ball in the park. The cat was so curious and wanted to explore the object. So, the cat took the key on his foot to the park. The cat was so curious and wanted to explore the object. So, the cat took the key to the park. The cat was so curious and wanted to explore the object. The cat took the"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a bird wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a bird wanted to But, there were two birds who wanted to help it. Long on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on on"
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bird.",
+    "expected_entities": [],
+    "generated": "Once upon a time, there was a bird. Once upon a time, there was a bird. The bird was a bird. He loved to fly in the sky and watch the world go by. One day, the bird saw a bird flying in the sky and said, \"Ro, I saw a bird flying in the sky and said, \"Ro, I saw a bird flying in the sky and said, \"Ro, I"
+  },
+  {
+    "category": "entity",
+    "prompt": "Noah, Ava, and Emma were playing in the village.",
+    "expected_entities": [
+      "Noah",
+      "Ava",
+      "Emma"
+    ],
+    "generated": "Noah, Ava, and Emma were playing in the village. Noah, Ava, and Emma were playing in the village. Noah, Ava, and Emma discovered a lantern in the village. Together, they learned how to use it and had fun. Noah, Ava, and Emma were playing in the village. At the village. Noah, Ava, and"
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": [],
+    "generated": "A storm started in the beach, and The rain started in the beach, and The rain started in the beach, and The rain started in the beach, and A storm started in the beach, and A storm started in the beach, and A storm started in the beach, and The rain, and A storm started in the beach, and"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Lucy found the key,",
+    "expected_entities": [],
+    "generated": "After Lucy found the key, Lily found the key. She was so excited, she ran to the door to the door and and to the door to the door and the door door and the door door door and the door door door and the door door door door and the door door door and the door door door and the door door door and the door door door and the door door door door and the"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Noah found the box,",
+    "expected_entities": [],
+    "generated": "After Noah found the box, After Noah found the box, After Noah found the box, After Noah found the box, At Noah found the box, After Noah found the box, After Noah found the box, After Noah found the box, After Noah found the box,"
+  },
+  {
+    "category": "coherence",
+    "prompt": "Liam lost a box, then",
+    "expected_entities": [],
+    "generated": "Liam lost a box, then Liam found a box, then he found a box, then he found a box. Liam was so happy! He hugged the box and started to look for it. Liam was so happy and started to look for it. But then, Zam saw another box, and he found another box. Liam was so happy and started to run away. As he was running, he saw a big"
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a dog wanted to",
+    "expected_entities": [],
+    "generated": "Long ago, a dog wanted to His Mom said to Long Bash. Cash was a special kind of helper and he was a good dog. Long Bash was a special kind of helper and he was a good dog. Long Bash was a special kind of helper and he was a good dog. Long Bash was a special kind of helper and"
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious cat found a mysterious box and",
+    "expected_entities": [],
+    "generated": "A curious cat found a mysterious box and A curious cat found a mysterious box in the garden. The old cat wanted to know what was inside, so he jumped on the box and grabbed the box and opened the box and saw a mysterious new book in the garden. The old cat was so excited and started to purr. The old cat was so curious that he jumped on the box and opened the box"
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small village, a bear lived with his family.",
+    "expected_entities": [],
+    "generated": "In a small village, a bear lived with his family. One day, a bear lived with his family. One day, the bear was very hungry and wanted to eat some tasty food. But the bear was too weak and he couldn't get in the way. The bear cried and his family was very sad and he wanted to eat some tasty food. But then, the bear heard a loud noise and came out of the way. The"
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Olivia found the box,",
+    "expected_entities": [],
+    "generated": "After Olivia found the box, At Olivia found the box, At Olivia found the box, At Olivia found the box, After Olivia found the box, After Olivia found the box, After Olivia found the box, At Olivia found the box, After Olivia found the box,"
+  }
+]

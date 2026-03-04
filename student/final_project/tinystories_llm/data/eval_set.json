@@ -1,0 +1,2355 @@
+[
+  {
+    "category": "coherence",
+    "prompt": "Lucy lost a ball, then",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the forest.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a bear wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Mia told Bob about a map.",
+    "expected_entities": [
+      "Mia",
+      "Bob",
+      "Tom"
+    ]
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice, Liam, and Ava were playing in the village.",
+    "expected_entities": [
+      "Alice",
+      "Liam",
+      "Ava"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a dog wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious dog found a mysterious book and",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Liam, Olivia, and Liam were playing in the village.",
+    "expected_entities": [
+      "Liam",
+      "Olivia"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the school, and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma lost a key, then",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Jack helped Noah after they lost a book.",
+    "expected_entities": [
+      "Jack",
+      "Noah",
+      "Mia"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small beach, a dog lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Alice told Bob about a box.",
+    "expected_entities": [
+      "Alice",
+      "Bob",
+      "Jack"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the beach, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia, Liam, and Mia were playing in the village.",
+    "expected_entities": [
+      "Mia",
+      "Liam"
+    ]
+  },
+  {
+    "category": "entity",
+    "prompt": "Lucy helped Liam after they lost a key.",
+    "expected_entities": [
+      "Lucy",
+      "Liam",
+      "Emma"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Mia and Ava were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Olivia was late for school because the lights went out, so",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Olivia and Alice went to the beach to find a box.",
+    "expected_entities": [
+      "Olivia",
+      "Alice",
+      "Tom"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the village.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Jack was late for school because she heard a strange noise, so",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice and Liam went to the beach to find a treasure.",
+    "expected_entities": [
+      "Alice",
+      "Liam"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the park, and",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Noah, Liam, and Jack were playing in the park.",
+    "expected_entities": [
+      "Noah",
+      "Liam",
+      "Jack"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Noah found the ball,",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the park, and",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma, Lucy, and Ava were playing in the village.",
+    "expected_entities": [
+      "Emma",
+      "Lucy",
+      "Ava"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a cat.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Noah told Lucy about a box.",
+    "expected_entities": [
+      "Noah",
+      "Lucy",
+      "Jack"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Mia found the box,",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Jack helped Bob after they lost a ball.",
+    "expected_entities": [
+      "Jack",
+      "Bob"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious cat found a mysterious book and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the forest, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bear found a mysterious treasure and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Bob lost a book, then",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bear found a mysterious map and",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bird who",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small park, a rabbit lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the beach.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma lost a box, then",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small school, a bird discovered a treasure that",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Noah was late for school because the lights went out, so",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the park, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Lucy, Olivia, and Lucy were playing in the village.",
+    "expected_entities": [
+      "Lucy",
+      "Olivia"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Alice and Olivia were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a fox who",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bird found a mysterious box and",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Liam, Mia, and Alice were playing in the school.",
+    "expected_entities": [
+      "Liam",
+      "Mia",
+      "Alice"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma lost a treasure, then",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan helped Ava after they lost a book.",
+    "expected_entities": [
+      "Ethan",
+      "Ava",
+      "Liam"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "Lucy was late for school because the lights went out, so",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Noah and Emma were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a cat.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the beach, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a dog wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice helped Emma after they lost a ball.",
+    "expected_entities": [
+      "Alice",
+      "Emma"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bear who",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia and Emma went to the school to find a book.",
+    "expected_entities": [
+      "Mia",
+      "Emma",
+      "Liam"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Noah, Lucy, and Noah were playing in the school.",
+    "expected_entities": [
+      "Noah",
+      "Lucy"
+    ]
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan, Jack, and Ethan were playing in the beach.",
+    "expected_entities": [
+      "Ethan",
+      "Jack"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Noah and Bob were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Jack helped Emma after they lost a map.",
+    "expected_entities": [
+      "Jack",
+      "Emma"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small forest, a cat discovered a treasure that",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a cat who",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Olivia and Jack were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Mia and Emma were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan, Olivia, and Lucy were playing in the beach.",
+    "expected_entities": [
+      "Ethan",
+      "Olivia",
+      "Lucy"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a fox wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ava told Noah about a box.",
+    "expected_entities": [
+      "Ava",
+      "Noah",
+      "Emma"
+    ]
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ava told Mia about a key.",
+    "expected_entities": [
+      "Ava",
+      "Mia"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Alice and Ethan were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a dog wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Ava, Emma, and Mia were playing in the school.",
+    "expected_entities": [
+      "Ava",
+      "Emma",
+      "Mia"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia helped Noah after they lost a map.",
+    "expected_entities": [
+      "Mia",
+      "Noah",
+      "Liam"
+    ]
+  },
+  {
+    "category": "entity",
+    "prompt": "Lucy helped Tom after they lost a book.",
+    "expected_entities": [
+      "Lucy",
+      "Tom",
+      "Alice"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bird who",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the forest, and",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a cat who",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious dog found a mysterious ball and",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious dog found a mysterious key and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Tom lost a key, then",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a dog wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the village, and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Mia was late for school because it was raining, so",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the beach, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Ava found the key,",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan helped Mia after they lost a book.",
+    "expected_entities": [
+      "Ethan",
+      "Mia"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Liam found the ball,",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Tom found the treasure,",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because she heard a strange noise, so",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the village, and",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the forest, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Ava and Emma were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Bob told Emma about a box.",
+    "expected_entities": [
+      "Bob",
+      "Emma"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Emma were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a rabbit wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bear who",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a dog.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a fox who",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Olivia, Ava, and Lucy were playing in the beach.",
+    "expected_entities": [
+      "Olivia",
+      "Ava",
+      "Lucy"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Liam told Noah about a book.",
+    "expected_entities": [
+      "Liam",
+      "Noah"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ethan was late for school because he forgot his homework, so",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bird.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Liam, Bob, and Lucy were playing in the village.",
+    "expected_entities": [
+      "Liam",
+      "Bob",
+      "Lucy"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small forest, a bird lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Bob lost a ball, then",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the forest, and",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small village, a dog discovered a treasure that",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Tom and Jack were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bird.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a rabbit.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a cat who",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious fox found a mysterious map and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Liam was late for school because he forgot his homework, so",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a dog.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small beach, a cat lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Olivia told Mia about a box.",
+    "expected_entities": [
+      "Olivia",
+      "Mia",
+      "Bob"
+    ]
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma, Liam, and Emma were playing in the school.",
+    "expected_entities": [
+      "Emma",
+      "Liam"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the village.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Ava, Emma, and Lucy were playing in the park.",
+    "expected_entities": [
+      "Ava",
+      "Emma",
+      "Lucy"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a rabbit wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the park, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small forest, a fox lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bear found a mysterious ball and",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Ethan and Emma were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Emma were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia and Emma went to the park to find a treasure.",
+    "expected_entities": [
+      "Mia",
+      "Emma"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small park, a bird discovered a treasure that",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma, Noah, and Emma were playing in the park.",
+    "expected_entities": [
+      "Emma",
+      "Noah"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "Lucy lost a book, then",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan helped Jack after they lost a treasure.",
+    "expected_entities": [
+      "Ethan",
+      "Jack"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious cat found a mysterious key and",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the forest.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Lucy was late for school because she heard a strange noise, so",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a dog.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Bob, Mia, and Jack were playing in the park.",
+    "expected_entities": [
+      "Bob",
+      "Mia",
+      "Jack"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Bob were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Bob, Mia, and Tom were playing in the park.",
+    "expected_entities": [
+      "Bob",
+      "Mia",
+      "Tom"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a bird wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Tom lost a treasure, then",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice and Mia went to the school to find a map.",
+    "expected_entities": [
+      "Alice",
+      "Mia",
+      "Ava"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Lucy and Lucy were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Olivia and Mia were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Olivia was late for school because she heard a strange noise, so",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the forest.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Jack lost a key, then",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma and Jack went to the school to find a map.",
+    "expected_entities": [
+      "Emma",
+      "Jack"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small forest, a rabbit discovered a map that",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan and Liam went to the park to find a book.",
+    "expected_entities": [
+      "Ethan",
+      "Liam"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the park, and",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Jack told Liam about a treasure.",
+    "expected_entities": [
+      "Jack",
+      "Liam"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small park, a dog discovered a box that",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma, Mia, and Emma were playing in the forest.",
+    "expected_entities": [
+      "Emma",
+      "Mia"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a rabbit wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Noah found the treasure,",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Liam and Noah went to the forest to find a box.",
+    "expected_entities": [
+      "Liam",
+      "Noah"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "Mia was late for school because he forgot his homework, so",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ava was late for school because she heard a strange noise, so",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bear found a mysterious box and",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Ava helped Jack after they lost a book.",
+    "expected_entities": [
+      "Ava",
+      "Jack"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bird who",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the park, and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Alice found the ball,",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia helped Noah after they lost a treasure.",
+    "expected_entities": [
+      "Mia",
+      "Noah"
+    ]
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Mia told Jack about a map.",
+    "expected_entities": [
+      "Mia",
+      "Jack"
+    ]
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia helped Noah after they lost a book.",
+    "expected_entities": [
+      "Mia",
+      "Noah",
+      "Tom"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bear.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small school, a dog discovered a ball that",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the school, and",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Jack helped Tom after they lost a book.",
+    "expected_entities": [
+      "Jack",
+      "Tom"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a bear wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ava was late for school because she heard a strange noise, so",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Bob told Olivia about a key.",
+    "expected_entities": [
+      "Bob",
+      "Olivia"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Ethan and Lucy were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bear found a mysterious map and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Emma found the treasure,",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice, Tom, and Alice were playing in the school.",
+    "expected_entities": [
+      "Alice",
+      "Tom"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Alice found the map,",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ethan was late for school because it was raining, so",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the forest, and",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma lost a map, then",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma and Jack went to the beach to find a treasure.",
+    "expected_entities": [
+      "Emma",
+      "Jack"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Bob found the map,",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bear.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Olivia helped Alice after they lost a book.",
+    "expected_entities": [
+      "Olivia",
+      "Alice",
+      "Ava"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Jack, Ava, and Tom were playing in the forest.",
+    "expected_entities": [
+      "Jack",
+      "Ava",
+      "Tom"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bear.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a bird wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Tom helped Olivia after they lost a ball.",
+    "expected_entities": [
+      "Tom",
+      "Olivia",
+      "Liam"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious cat found a mysterious box and",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a dog.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Tom found the map,",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Noah helped Mia after they lost a key.",
+    "expected_entities": [
+      "Noah",
+      "Mia"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the beach.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the forest.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small beach, a dog discovered a box that",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because the lights went out, so",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Lucy lost a treasure, then",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small village, a fox discovered a key that",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma helped Ava after they lost a treasure.",
+    "expected_entities": [
+      "Emma",
+      "Ava",
+      "Jack"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because it was raining, so",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the forest.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Olivia and Olivia were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Mia were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the village, and",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia and Liam went to the forest to find a box.",
+    "expected_entities": [
+      "Mia",
+      "Liam",
+      "Lucy"
+    ]
+  },
+  {
+    "category": "entity",
+    "prompt": "Ava and Lucy went to the beach to find a treasure.",
+    "expected_entities": [
+      "Ava",
+      "Lucy"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious fox found a mysterious book and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because she heard a strange noise, so",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious rabbit found a mysterious map and",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a cat who",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a cat.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia and Ethan went to the school to find a ball.",
+    "expected_entities": [
+      "Mia",
+      "Ethan",
+      "Olivia"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small village, a bird lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Emma found the map,",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Bob helped Olivia after they lost a treasure.",
+    "expected_entities": [
+      "Bob",
+      "Olivia",
+      "Alice"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ethan lost a book, then",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the village, and",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Noah, Bob, and Emma were playing in the park.",
+    "expected_entities": [
+      "Noah",
+      "Bob",
+      "Emma"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "Jack lost a box, then",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ethan told Emma about a book.",
+    "expected_entities": [
+      "Ethan",
+      "Emma"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small school, a bird discovered a book that",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ava told Tom about a treasure.",
+    "expected_entities": [
+      "Ava",
+      "Tom",
+      "Liam"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small village, a fox lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because he forgot his homework, so",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Olivia lost a ball, then",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ethan told Emma about a treasure.",
+    "expected_entities": [
+      "Ethan",
+      "Emma"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the village, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the school, and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Mia lost a treasure, then",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a cat who",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious dog found a mysterious ball and",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small beach, a bird lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small beach, a fox lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Tom and Olivia went to the school to find a ball.",
+    "expected_entities": [
+      "Tom",
+      "Olivia"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the park, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bear who",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small beach, a cat discovered a book that",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small forest, a rabbit lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Lucy were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bird.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia helped Alice after they lost a treasure.",
+    "expected_entities": [
+      "Mia",
+      "Alice",
+      "Bob"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because he forgot his homework, so",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Lucy found the map,",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Olivia told Bob about a treasure.",
+    "expected_entities": [
+      "Olivia",
+      "Bob"
+    ]
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ava told Noah about a treasure.",
+    "expected_entities": [
+      "Ava",
+      "Noah",
+      "Bob"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "Noah lost a ball, then",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Olivia found the treasure,",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small beach, a bear discovered a map that",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small forest, a dog discovered a treasure that",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice and Jack went to the park to find a ball.",
+    "expected_entities": [
+      "Alice",
+      "Jack"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the village, and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Olivia lost a key, then",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Emma told Ava about a box.",
+    "expected_entities": [
+      "Emma",
+      "Ava"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "Lucy was late for school because she heard a strange noise, so",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Liam told Jack about a treasure.",
+    "expected_entities": [
+      "Liam",
+      "Jack",
+      "Bob"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Liam helped Lucy after they lost a map.",
+    "expected_entities": [
+      "Liam",
+      "Lucy",
+      "Ethan"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the forest, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Bob found the map,",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small beach, a dog lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ava lost a box, then",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Emma and Emma were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the forest.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Bob and Lucy went to the school to find a ball.",
+    "expected_entities": [
+      "Bob",
+      "Lucy",
+      "Emma"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the school, and",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a dog who",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a cat who",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small village, a bear discovered a ball that",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Liam and Lucy were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma and Bob went to the village to find a ball.",
+    "expected_entities": [
+      "Emma",
+      "Bob"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a cat.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Mia and Emma were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Tom, Noah, and Tom were playing in the forest.",
+    "expected_entities": [
+      "Tom",
+      "Noah"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "Emma was late for school because she heard a strange noise, so",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small school, a bear discovered a map that",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Bob told Noah about a key.",
+    "expected_entities": [
+      "Bob",
+      "Noah",
+      "Emma"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Emma told Lucy about a book.",
+    "expected_entities": [
+      "Emma",
+      "Lucy"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Mia found the book,",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a fox.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the beach.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious cat found a mysterious treasure and",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bird who",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Mia lost a ball, then",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia helped Jack after they lost a book.",
+    "expected_entities": [
+      "Mia",
+      "Jack",
+      "Noah"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ethan lost a ball, then",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Bob lost a map, then",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Lucy and Alice were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Lucy lost a box, then",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Bob was late for school because it was raining, so",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the park, and",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice helped Olivia after they lost a book.",
+    "expected_entities": [
+      "Alice",
+      "Olivia"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bear who",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan, Mia, and Ava were playing in the village.",
+    "expected_entities": [
+      "Ethan",
+      "Mia",
+      "Ava"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bear.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Noah found the box,",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Bob, Emma, and Bob were playing in the beach.",
+    "expected_entities": [
+      "Bob",
+      "Emma"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the beach, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious bird found a mysterious treasure and",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the beach, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia helped Jack after they lost a book.",
+    "expected_entities": [
+      "Mia",
+      "Jack"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small school, a bear lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Jack, Emma, and Liam were playing in the beach.",
+    "expected_entities": [
+      "Jack",
+      "Emma",
+      "Liam"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the forest, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Ethan and Bob were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Olivia, Bob, and Noah were playing in the beach.",
+    "expected_entities": [
+      "Olivia",
+      "Bob",
+      "Noah"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Liam found the map,",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small forest, a dog discovered a treasure that",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a dog.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Tom were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Mia and Lucy went to the village to find a book.",
+    "expected_entities": [
+      "Mia",
+      "Lucy"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the school, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice helped Jack after they lost a treasure.",
+    "expected_entities": [
+      "Alice",
+      "Jack",
+      "Emma"
+    ]
+  },
+  {
+    "category": "entity",
+    "prompt": "Ava helped Olivia after they lost a key.",
+    "expected_entities": [
+      "Ava",
+      "Olivia",
+      "Mia"
+    ]
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ava told Mia about a treasure.",
+    "expected_entities": [
+      "Ava",
+      "Mia",
+      "Lucy"
+    ]
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the village, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ethan lost a map, then",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Ethan, Bob, and Tom were playing in the park.",
+    "expected_entities": [
+      "Ethan",
+      "Bob",
+      "Tom"
+    ]
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Ethan told Jack about a key.",
+    "expected_entities": [
+      "Ethan",
+      "Jack"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bird.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Bob found the box,",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Tom and Jack were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Olivia and Emma were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Once upon a time, there was a bird who",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "One quiet night in the forest, something strange",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the park, and",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small forest, a fox discovered a treasure that",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Bob and Tom were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "At school, Noah told Liam about a key.",
+    "expected_entities": [
+      "Noah",
+      "Liam",
+      "Olivia"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the beach.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Jack was late for school because she heard a strange noise, so",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Liam and Jack went to the park to find a treasure.",
+    "expected_entities": [
+      "Liam",
+      "Jack"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Alice and Liam were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Alice helped Noah after they lost a book.",
+    "expected_entities": [
+      "Alice",
+      "Noah",
+      "Lucy"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Ava, Emma, and Ava were playing in the village.",
+    "expected_entities": [
+      "Ava",
+      "Emma"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small village, a fox lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Ethan lost a ball, then",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small forest, a dog lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "In a small forest, a rabbit discovered a map that",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the village, and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Olivia found the key,",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the park.",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "It was a cold day in the school.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Tom, Bob, and Liam were playing in the forest.",
+    "expected_entities": [
+      "Tom",
+      "Bob",
+      "Liam"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Alice found the key,",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Emma and Liam went to the village to find a treasure.",
+    "expected_entities": [
+      "Emma",
+      "Liam",
+      "Ethan"
+    ]
+  },
+  {
+    "category": "structure",
+    "prompt": "Noah and Ava were best friends.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Alice lost a key, then",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a fox wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a cat wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious cat found a mysterious ball and",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a bird wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "Once upon a time, there was a bird.",
+    "expected_entities": []
+  },
+  {
+    "category": "entity",
+    "prompt": "Noah, Ava, and Emma were playing in the village.",
+    "expected_entities": [
+      "Noah",
+      "Ava",
+      "Emma"
+    ]
+  },
+  {
+    "category": "coherence",
+    "prompt": "A storm started in the beach, and",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Lucy found the key,",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Noah found the box,",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "Liam lost a box, then",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "Long ago, a dog wanted to",
+    "expected_entities": []
+  },
+  {
+    "category": "repetition",
+    "prompt": "A curious cat found a mysterious box and",
+    "expected_entities": []
+  },
+  {
+    "category": "structure",
+    "prompt": "In a small village, a bear lived with his family.",
+    "expected_entities": []
+  },
+  {
+    "category": "coherence",
+    "prompt": "After Olivia found the box,",
+    "expected_entities": []
+  }
+]
